@@ -1,0 +1,20 @@
+UserStorys:
+- Name: API Dokumentation
+  ColorInt: -15297948
+Participants:
+- Nils Brugger
+- Kalian Danzer
+- Tobias Schrottwieser
+TableRows:
+- UserStory:
+    Name: API Dokumentation
+    ColorInt: -15297948
+  Participant: Nils Brugger
+  Working: Replace Event System
+  StartDate: 2020-02-27T23:33:18.0548645+01:00
+  EndDate: 2020-02-27T23:37:00.7370479+01:00
+  EstimatedTime: 1200000
+  RealTime: 1097503
+  Deviation: -102497
+  BreakTime: 0
+  PercentProgress: 80
