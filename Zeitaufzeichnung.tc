@@ -1,6 +1,8 @@
 UserStorys:
 - Name: API Dokumentation
   ColorInt: -15297948
+- Name: Spiel Dokumentation
+  ColorInt: -32513
 Participants:
 - Nils Brugger
 - Kalian Danzer
@@ -14,7 +16,19 @@ TableRows:
   StartDate: 2020-02-27T23:33:18.0548645+01:00
   EndDate: 2020-02-27T23:37:00.7370479+01:00
   EstimatedTime: 1200000
-  RealTime: 1097503
-  Deviation: -102497
+  RealTime: 222682
+  Deviation: -977318
   BreakTime: 0
   PercentProgress: 80
+- UserStory:
+    Name: Spiel Dokumentation
+    ColorInt: -32513
+  Participant: Kalian Danzer
+  Working: Regelbuch für unsere Version des Spieles schreiben.
+  StartDate: 2020-02-28T10:03:05.4243798+01:00
+  EndDate: 2020-02-28T11:48:47.0304295+01:00
+  EstimatedTime: 7200000
+  RealTime: 1258462
+  Deviation: -5941538
+  BreakTime: 1723144
+  PercentProgress: 29
