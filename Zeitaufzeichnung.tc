@@ -7,7 +7,7 @@ Participants:
 - Nils Brugger
 - Kalian Danzer
 - Tobias Schrottwieser
-TableRows:
+TableRowsShort:
 - UserStory:
     Name: API Dokumentation
     ColorInt: -15297948
@@ -16,8 +16,6 @@ TableRows:
   StartDate: 2020-02-27T23:33:18.0548645+01:00
   EndDate: 2020-02-27T23:37:00.7370479+01:00
   EstimatedTime: 1200000
-  RealTime: 222682
-  Deviation: -977318
   BreakTime: 0
   PercentProgress: 80
 - UserStory:
@@ -28,9 +26,7 @@ TableRows:
   StartDate: 2020-03-05T15:30:49.2924444+01:00
   EndDate: 2020-03-05T15:53:51.1560928+01:00
   EstimatedTime: 3600000
-  RealTime: 819
-  Deviation: -3599181
-  BreakTime: 1381044
+  BreakTime: 0
   PercentProgress: 0
 - UserStory:
     Name: API Dokumentation
@@ -40,9 +36,7 @@ TableRows:
   StartDate: 2020-03-05T16:16:02.8547737+01:00
   EndDate: 2020-03-05T16:42:22.4134266+01:00
   EstimatedTime: 5400000
-  RealTime: 514
-  Deviation: -5399486
-  BreakTime: 1579044
+  BreakTime: 0
   PercentProgress: 0
 - UserStory:
     Name: Spiel Dokumentation
@@ -52,7 +46,5 @@ TableRows:
   StartDate: 2020-02-28T10:03:05.4243798+01:00
   EndDate: 2020-02-28T11:48:47.0304295+01:00
   EstimatedTime: 7200000
-  RealTime: 1258462
-  Deviation: -5941538
   BreakTime: 1723144
   PercentProgress: 29
