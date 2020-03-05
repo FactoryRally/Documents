@@ -14,7 +14,31 @@ TableRows:
   StartDate: 2020-02-27T23:33:18.0548645+01:00
   EndDate: 2020-02-27T23:37:00.7370479+01:00
   EstimatedTime: 1200000
-  RealTime: 1097503
-  Deviation: -102497
+  RealTime: 222682
+  Deviation: -977318
   BreakTime: 0
   PercentProgress: 80
+- UserStory:
+    Name: API Dokumentation
+    ColorInt: -15297948
+  Participant: Nils Brugger
+  Working: Karten in Tabelle eintragen
+  StartDate: 2020-03-05T15:30:49.2924444+01:00
+  EndDate: 2020-03-05T15:53:51.1560928+01:00
+  EstimatedTime: 3600000
+  RealTime: 819
+  Deviation: -3599181
+  BreakTime: 1381044
+  PercentProgress: 0
+- UserStory:
+    Name: API Dokumentation
+    ColorInt: -15297948
+  Participant: Nils Brugger
+  Working: Extend Event System
+  StartDate: 2020-03-05T16:16:02.8547737+01:00
+  EndDate: 2020-03-05T16:42:22.4134266+01:00
+  EstimatedTime: 5400000
+  RealTime: 514
+  Deviation: -5399486
+  BreakTime: 1579044
+  PercentProgress: 0
