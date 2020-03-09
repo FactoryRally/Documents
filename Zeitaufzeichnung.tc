@@ -17,7 +17,7 @@ TableRowsShort:
   EndDate: 2020-02-27T23:37:00.7370479+01:00
   EstimatedTime: 1200000
   BreakTime: 0
-  PercentProgress: 80
+  PercentProgress: 34
 - UserStory:
     Name: API Dokumentation
     ColorInt: -15297948
@@ -27,7 +27,7 @@ TableRowsShort:
   EndDate: 2020-03-05T15:53:51.1560928+01:00
   EstimatedTime: 3600000
   BreakTime: 0
-  PercentProgress: 0
+  PercentProgress: 46
 - UserStory:
     Name: API Dokumentation
     ColorInt: -15297948
@@ -37,7 +37,7 @@ TableRowsShort:
   EndDate: 2020-03-05T16:42:22.4134266+01:00
   EstimatedTime: 5400000
   BreakTime: 0
-  PercentProgress: 0
+  PercentProgress: 50
 - UserStory:
     Name: Spiel Dokumentation
     ColorInt: -32513
@@ -48,3 +48,13 @@ TableRowsShort:
   EstimatedTime: 7200000
   BreakTime: 1723144
   PercentProgress: 29
+- UserStory:
+    Name: API Dokumentation
+    ColorInt: -15297948
+  Participant: Nils Brugger
+  Working: Entity Event System fertig stellen
+  StartDate: 2020-03-09T09:13:15.4021790+01:00
+  EndDate: 2020-03-09T10:13:01.1519277+01:00
+  EstimatedTime: 5400000
+  BreakTime: 1704977
+  PercentProgress: 60
