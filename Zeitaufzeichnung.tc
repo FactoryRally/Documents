@@ -78,3 +78,13 @@ TableRowsShort:
   EstimatedTime: 1200000
   BreakTime: 0
   PercentProgress: 64
+- UserStory:
+    Name: Spiel Dokumentation
+    ColorInt: -32513
+  Participant: Kalian Danzer
+  Working: Regelbuch für unsere Version des Spiels weiter schreiben.
+  StartDate: 2020-03-09T14:20:11.9617575+01:00
+  EndDate: 2020-03-09T17:58:51.2943916+01:00
+  EstimatedTime: 14400000
+  BreakTime: 304630
+  PercentProgress: 85
