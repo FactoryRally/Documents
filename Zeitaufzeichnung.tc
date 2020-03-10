@@ -68,3 +68,13 @@ TableRowsShort:
   EstimatedTime: 900000
   BreakTime: 0
   PercentProgress: 0
+- UserStory:
+    Name: API Dokumentation
+    ColorInt: -15297948
+  Participant: Nils Brugger
+  Working: Fix Api documentation issues and warnings & release prototype
+  StartDate: 2020-03-09T18:41:53.3410433+01:00
+  EndDate: 2020-03-09T20:15:22.9240898+01:00
+  EstimatedTime: 1200000
+  BreakTime: 0
+  PercentProgress: 64
