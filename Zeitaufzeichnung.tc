@@ -3,6 +3,8 @@ UserStorys:
   ColorInt: -15297948
 - Name: Spiel Dokumentation
   ColorInt: -32513
+- Name: ''
+  ColorInt: -1
 Participants:
 - Nils Brugger
 - Kalian Danzer
@@ -108,3 +110,13 @@ TableRowsShort:
   EstimatedTime: 3600000
   BreakTime: 1267
   PercentProgress: 80
+- UserStory:
+    Name: Rechereche
+    ColorInt: -16777216
+  Participant: Tobias Schrottwieser
+  Working: Wir haben gspielt
+  StartDate: 2020-03-02T13:30:38.5346296+01:00
+  EndDate: 2020-03-02T16:50:42.9038038+01:00
+  EstimatedTime: 10800000
+  BreakTime: 500
+  PercentProgress: 100
