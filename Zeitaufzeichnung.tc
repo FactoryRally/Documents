@@ -6,7 +6,7 @@ UserStorys:
 - Name: Server Implementierung
   ColorInt: -16744256
 - Name: Modelle erstellen
-  ColorInt: -65536
+  ColorInt: -612336
 - Name: Recherche
   ColorInt: -8355648
 - Name: UserStory Review
@@ -150,7 +150,7 @@ TableRowsShort:
   PercentProgress: 100
 - UserStory:
     Name: Modelle erstellen
-    ColorInt: -65536
+    ColorInt: -612336
   Participant: Tobias Schrottwieser
   Working: Karten Profilbilder wurden ausgeschnitten
   StartDate: 2020-03-05T12:53:20.4349269+01:00
