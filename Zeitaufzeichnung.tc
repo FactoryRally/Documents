@@ -3,10 +3,14 @@ UserStorys:
   ColorInt: -15297948
 - Name: Spiel Dokumentation
   ColorInt: -32513
-- Name: Recherche
-  ColorInt: -1
 - Name: Modelle erstellen
   ColorInt: -65536
+-Name: Recherche
+  ColorInt: -8355648
+- Name: UserStory Review
+  ColorInt: -32704
+- Name: Unity Spiel GUI
+  ColorInt: -1303273
 Participants:
 - Nils Brugger
 - Kalian Danzer
@@ -113,8 +117,8 @@ TableRowsShort:
   BreakTime: 1267
   PercentProgress: 80
 - UserStory:
-    Name: Rechereche
-    ColorInt: -16777216
+    Name: Recherche
+    ColorInt: -8355648
   Participant: Tobias Schrottwieser
   Working: Wir haben gspielt
   StartDate: 2020-03-02T13:30:38.5346296+01:00
@@ -132,3 +136,24 @@ TableRowsShort:
   EstimatedTime: 14400000
   BreakTime: 53302
   PercentProgress: 100
+- UserStory:
+    Name: UserStory Review
+    ColorInt: -32704
+  Participant: Kalian Danzer
+  Working: Review der UserStorys
+  StartDate: 2020-03-11T16:32:44.0794605+01:00
+  EndDate: 2020-03-11T17:21:16.4163066+01:00
+  EstimatedTime: 2400000
+  BreakTime: 0
+  PercentProgress: 0
+- UserStory:
+    Name: Unity Spiel GUI
+    ColorInt: -1303273
+  Participant: Kalian Danzer
+  Working: Initialisierung des Projektes und Aufbau des Hauptmenüs
+  StartDate: 2020-03-12T10:21:13.4646396+01:00
+  EndDate: 2020-03-12T12:15:24.0475310+01:00
+  EstimatedTime: 7200000
+  BreakTime: 0
+  PercentProgress: 5
+
