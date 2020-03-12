@@ -7,6 +7,8 @@ UserStorys:
   ColorInt: -8355648
 - Name: UserStory Review
   ColorInt: -32704
+- Name: Unity Spiel GUI
+  ColorInt: -1303273
 Participants:
 - Nils Brugger
 - Kalian Danzer
@@ -132,3 +134,13 @@ TableRowsShort:
   EstimatedTime: 2400000
   BreakTime: 0
   PercentProgress: 0
+- UserStory:
+    Name: Unity Spiel GUI
+    ColorInt: -1303273
+  Participant: Kalian Danzer
+  Working: Initialisierung des Projektes und Aufbau des Hauptmenüs
+  StartDate: 2020-03-12T10:21:13.4646396+01:00
+  EndDate: 2020-03-12T12:15:24.0475310+01:00
+  EstimatedTime: 7200000
+  BreakTime: 0
+  PercentProgress: 5
