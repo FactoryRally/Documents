@@ -7,7 +7,7 @@ UserStorys:
   ColorInt: -16744256
 - Name: Modelle erstellen
   ColorInt: -65536
--Name: Recherche
+- Name: Recherche
   ColorInt: -8355648
 - Name: UserStory Review
   ColorInt: -32704
