@@ -3,8 +3,10 @@ UserStorys:
   ColorInt: -15297948
 - Name: Spiel Dokumentation
   ColorInt: -32513
-- Name: ''
+- Name: Recherche
   ColorInt: -1
+- Name: Modelle erstellen
+  ColorInt: -65536
 Participants:
 - Nils Brugger
 - Kalian Danzer
@@ -119,4 +121,14 @@ TableRowsShort:
   EndDate: 2020-03-02T16:50:42.9038038+01:00
   EstimatedTime: 10800000
   BreakTime: 500
+  PercentProgress: 100
+- UserStory:
+    Name: Modelle erstellen
+    ColorInt: -65536
+  Participant: Tobias Schrottwieser
+  Working: Karten Profilbilder wurden ausgeschnitten
+  StartDate: 2020-03-05T12:53:20.4349269+01:00
+  EndDate: 2020-03-05T12:53:22.7382909+01:00
+  EstimatedTime: 14400000
+  BreakTime: 53302
   PercentProgress: 100
