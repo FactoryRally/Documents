@@ -178,3 +178,13 @@ TableRowsShort:
   EstimatedTime: 7200000
   BreakTime: 0
   PercentProgress: 5
+- UserStory:
+    Name: Server Implementierung
+    ColorInt: -16744256
+  Participant: Nils Brugger
+  Working: IDE Installieren & Server Fixen
+  StartDate: 2020-03-12T14:30:15.9937445+01:00
+  EndDate: 2020-03-12T16:35:21.2096742+01:00
+  EstimatedTime: 7200000
+  BreakTime: 0
+  PercentProgress: 7
