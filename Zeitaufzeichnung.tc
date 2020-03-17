@@ -134,7 +134,7 @@ TableRowsShort:
   Participant: Tobias Schrottwieser
   Working: Karten Profilbilder wurden ausgeschnitten
   StartDate: 2020-03-05T12:53:20.4349269+01:00
-  EndDate: 2020-03-05T12:53:22.7382909+01:00
+  EndDate: 2020-03-05T17:53:22.7382909+01:00
   EstimatedTime: 14400000
   BreakTime: 53302
   PercentProgress: 100
@@ -208,3 +208,13 @@ TableRowsShort:
   EstimatedTime: 7200000
   BreakTime: 2564589
   PercentProgress: 9
+- UserStory:
+    Name: Modelle erstellen
+    ColorInt: -9954923
+  Participant: Tobias Schrottwieser
+  Working: Panzer und Animation
+  StartDate: 2020-03-17T14:30:26.0077713+01:00
+  EndDate: 2020-03-17T19:54:27.3544384+01:00
+  EstimatedTime: 18000000
+  BreakTime: 0
+  PercentProgress: 30
