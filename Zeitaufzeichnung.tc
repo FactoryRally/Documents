@@ -175,6 +175,7 @@ TableRowsShort:
   EndDate: 2020-03-12T16:50:05.3134767+01:00
   EstimatedTime: 10800000
   BreakTime: 25131
+  PercentProgress: 7
 - UserStory:
     Name: Server Implementierung
     ColorInt: -16744256
