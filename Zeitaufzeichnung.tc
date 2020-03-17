@@ -5,6 +5,8 @@ UserStorys:
   ColorInt: -32513
 - Name: Modelle erstellen
   ColorInt: -9954923
+- Name: Server Implementierung
+  ColorInt: -16744256
 - Name: Recherche
   ColorInt: -8355648
 - Name: UserStory Review
