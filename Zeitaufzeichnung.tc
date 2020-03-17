@@ -198,3 +198,13 @@ TableRowsShort:
   EstimatedTime: 14400000
   BreakTime: 27188
   PercentProgress: 50
+- UserStory:
+    Name: Unity Spiel GUI
+    ColorInt: -1303273
+  Participant: Kalian Danzer
+  Working: Informieren wie man eine schöne GUI baut und  Aufbau des Hauptmenüs
+  StartDate: 2020-03-17T16:23:13.2818114+01:00
+  EndDate: 2020-03-17T20:16:43.7622243+01:00
+  EstimatedTime: 7200000
+  BreakTime: 2564589
+  PercentProgress: 9
