@@ -208,3 +208,23 @@ TableRowsShort:
   EstimatedTime: 18000000
   BreakTime: 0
   PercentProgress: 30
+- UserStory:
+    Name: Modelle erstellen
+    ColorInt: -9954923
+  Participant: Tobias Schrottwieser
+  Working: Panzer und Animation
+  StartDate: 2020-03-17T23:47:53.1037854+01:00
+  EndDate: 2020-03-18T02:04:28.6109219+01:00
+  EstimatedTime: 14400000
+  BreakTime: 0
+  PercentProgress: 85
+- UserStory:
+    Name: Videos erstellen
+    ColorInt: -8323073
+  Participant: Tobias Schrottwieser
+  Working: Entwicklungs Video der Spielfiguren (Schrottinger)
+  StartDate: 2020-03-18T02:18:05.0717562+01:00
+  EndDate: 2020-03-18T05:55:03.6888216+01:00
+  EstimatedTime: 7200000
+  BreakTime: 0
+  PercentProgress: 17
