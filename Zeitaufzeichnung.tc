@@ -13,6 +13,8 @@ UserStorys:
   ColorInt: -32704
 - Name: Unity Spiel GUI
   ColorInt: -1303273
+- Name: Videos erstellen
+  ColorInt: -5705740
 Participants:
 - Nils Brugger
 - Kalian Danzer
@@ -230,7 +232,7 @@ TableRowsShort:
   PercentProgress: 85
 - UserStory:
     Name: Videos erstellen
-    ColorInt: -8323073
+    ColorInt: -5705740
   Participant: Tobias Schrottwieser
   Working: Entwicklungs Video der Spielfiguren (Schrottinger)
   StartDate: 2020-03-18T02:18:05.0717562+01:00
