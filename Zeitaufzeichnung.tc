@@ -240,3 +240,13 @@ TableRowsShort:
   EstimatedTime: 7200000
   BreakTime: 0
   PercentProgress: 17
+- UserStory:
+    Name: Server Implementierung
+    ColorInt: -16744256
+  Participant: Nils Brugger
+  Working: Abeiten am Server
+  StartDate: 2020-03-18T19:36:55.2057946+01:00
+  EndDate: 2020-03-18T21:50:15.5616976+01:00
+  EstimatedTime: 7200000
+  BreakTime: 1342517
+  PercentProgress: 11
