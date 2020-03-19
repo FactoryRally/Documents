@@ -270,3 +270,13 @@ TableRowsShort:
   EstimatedTime: 1800000
   BreakTime: 0
   PercentProgress: 0
+- UserStory:
+    Name: Server Implementierung
+    ColorInt: -16744256
+  Participant: ''
+  Working: Upgrade API & Spiele zeitablauf hinzufügen
+  StartDate: 2020-03-19T11:28:21.5969103+01:00
+  EndDate: 2020-03-19T17:44:48.1217801+01:00
+  EstimatedTime: 9000000
+  BreakTime: 10112574
+  PercentProgress: 17
