@@ -15,6 +15,8 @@ UserStorys:
   ColorInt: -1303273
 - Name: Videos erstellen
   ColorInt: -5705740
+- Name: Projektbesprechung
+  ColorInt: -198561
 Participants:
 - Nils Brugger
 - Kalian Danzer
@@ -280,3 +282,13 @@ TableRowsShort:
   EstimatedTime: 9000000
   BreakTime: 10112574
   PercentProgress: 17
+- UserStory:
+    Name: Projektbesprechung
+    ColorInt: -198561
+  Participant: Kalian Danzer
+  Working: Besprechung des Aktuellen verlaufes des Projektes
+  StartDate: 2020-03-20T13:29:22.5768015+01:00
+  EndDate: 2020-03-20T13:50:18.1682626+01:00
+  EstimatedTime: 1800000
+  BreakTime: 0
+  PercentProgress: 0
