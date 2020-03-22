@@ -22,9 +22,7 @@ Participants:
 - Kalian Danzer
 - Tobias Schrottwieser
 TableRowsShort:
-- UserStory:
-    Name: API Dokumentation
-    ColorInt: -15297948
+- UserStory: API Dokumentation
   Participant: Nils Brugger
   Working: Replace Event System
   StartDate: 2020-02-27T23:33:18.0548645+01:00
@@ -32,9 +30,7 @@ TableRowsShort:
   EstimatedTime: 1200000
   BreakTime: 0
   PercentProgress: 34
-- UserStory:
-    Name: API Dokumentation
-    ColorInt: -15297948
+- UserStory: API Dokumentation
   Participant: Nils Brugger
   Working: Karten in Tabelle eintragen
   StartDate: 2020-03-05T15:30:49.2924444+01:00
@@ -42,9 +38,7 @@ TableRowsShort:
   EstimatedTime: 3600000
   BreakTime: 0
   PercentProgress: 46
-- UserStory:
-    Name: API Dokumentation
-    ColorInt: -15297948
+- UserStory: API Dokumentation
   Participant: Nils Brugger
   Working: Extend Event System
   StartDate: 2020-03-05T16:16:02.8547737+01:00
@@ -52,9 +46,7 @@ TableRowsShort:
   EstimatedTime: 5400000
   BreakTime: 0
   PercentProgress: 50
-- UserStory:
-    Name: Spiel Dokumentation
-    ColorInt: -32513
+- UserStory: Spiel Dokumentation
   Participant: Kalian Danzer
   Working: Regelbuch für unsere Version des Spieles schreiben.
   StartDate: 2020-02-28T10:03:05.4243798+01:00
@@ -62,9 +54,7 @@ TableRowsShort:
   EstimatedTime: 7200000
   BreakTime: 1723144
   PercentProgress: 29
-- UserStory:
-    Name: API Dokumentation
-    ColorInt: -15297948
+- UserStory: API Dokumentation
   Participant: Nils Brugger
   Working: Entity Event System fertig stellen
   StartDate: 2020-03-09T09:13:15.4021790+01:00
@@ -72,9 +62,7 @@ TableRowsShort:
   EstimatedTime: 5400000
   BreakTime: 1704977
   PercentProgress: 60
-- UserStory:
-    Name: API Dokumentation
-    ColorInt: -15297948
+- UserStory: API Dokumentation
   Participant: Nils Brugger
   Working: Tags erstellen
   StartDate: 2020-03-09T10:40:34.2357407+01:00
@@ -82,9 +70,7 @@ TableRowsShort:
   EstimatedTime: 900000
   BreakTime: 0
   PercentProgress: 0
-- UserStory:
-    Name: API Dokumentation
-    ColorInt: -15297948
+- UserStory: API Dokumentation
   Participant: Nils Brugger
   Working: Fix Api documentation issues and warnings & release prototype
   StartDate: 2020-03-09T18:41:53.3410433+01:00
@@ -92,9 +78,7 @@ TableRowsShort:
   EstimatedTime: 1200000
   BreakTime: 0
   PercentProgress: 64
-- UserStory:
-    Name: Spiel Dokumentation
-    ColorInt: -32513
+- UserStory: Spiel Dokumentation
   Participant: Kalian Danzer
   Working: Regelbuch für unsere Version des Spiels weiter schreiben.
   StartDate: 2020-03-09T14:20:11.9617575+01:00
@@ -102,9 +86,7 @@ TableRowsShort:
   EstimatedTime: 14400000
   BreakTime: 304630
   PercentProgress: 85
-- UserStory:
-    Name: API Dokumentation
-    ColorInt: -15297948
+- UserStory: API Dokumentation
   Participant: Nils Brugger
   Working: Aktualisieren der dokumentation anhand der regeln
   StartDate: 2020-03-10T16:10:55.1659625+01:00
@@ -112,9 +94,7 @@ TableRowsShort:
   EstimatedTime: 7200000
   BreakTime: 179
   PercentProgress: 77
-- UserStory:
-    Name: API Dokumentation
-    ColorInt: -15297948
+- UserStory: API Dokumentation
   Participant: Nils Brugger
   Working: Aktualisieren der dokumentation anhand der regeln
   StartDate: 2020-03-10T17:30:31.3656074+01:00
@@ -122,9 +102,7 @@ TableRowsShort:
   EstimatedTime: 3600000
   BreakTime: 1267
   PercentProgress: 80
-- UserStory:
-    Name: Recherche
-    ColorInt: -8355648
+- UserStory: Recherche
   Participant: Tobias Schrottwieser
   Working: Wir haben gspielt
   StartDate: 2020-03-02T13:30:38.5346296+01:00
@@ -132,9 +110,7 @@ TableRowsShort:
   EstimatedTime: 10800000
   BreakTime: 500
   PercentProgress: 100
-- UserStory:
-    Name: Modelle erstellen
-    ColorInt: -9954923
+- UserStory: Modelle erstellen
   Participant: Tobias Schrottwieser
   Working: Karten Profilbilder wurden ausgeschnitten
   StartDate: 2020-03-05T12:53:20.4349269+01:00
@@ -142,9 +118,7 @@ TableRowsShort:
   EstimatedTime: 14400000
   BreakTime: 53302
   PercentProgress: 100
-- UserStory:
-    Name: UserStory Review
-    ColorInt: -32704
+- UserStory: UserStory Review
   Participant: Kalian Danzer
   Working: Review der UserStorys
   StartDate: 2020-03-11T16:32:44.0794605+01:00
@@ -152,9 +126,7 @@ TableRowsShort:
   EstimatedTime: 2400000
   BreakTime: 0
   PercentProgress: 0
-- UserStory:
-    Name: Unity Spiel GUI
-    ColorInt: -1303273
+- UserStory: Unity Spiel GUI
   Participant: Kalian Danzer
   Working: Initialisierung des Projektes und Aufbau des Hauptmenüs
   StartDate: 2020-03-12T10:21:13.4646396+01:00
@@ -162,9 +134,7 @@ TableRowsShort:
   EstimatedTime: 7200000
   BreakTime: 0
   PercentProgress: 5
-- UserStory:
-    Name: Recherche
-    ColorInt: -8355648
+- UserStory: Recherche
   Participant: Kalian Danzer
   Working: RoboRally Brettspiel getestet um die Regeln zu verstehen
   StartDate: 2020-03-03T13:29:38.5346296+01:00
@@ -172,9 +142,7 @@ TableRowsShort:
   EstimatedTime: 10800000
   BreakTime: 0
   PercentProgress: 100
-- UserStory:
-    Name: Unity Spiel GUI
-    ColorInt: -1303273
+- UserStory: Unity Spiel GUI
   Participant: Kalian Danzer
   Working: Aufbau des Hauptmenüs
   StartDate: 2020-03-12T14:08:56.7183866+01:00
@@ -182,9 +150,7 @@ TableRowsShort:
   EstimatedTime: 10800000
   BreakTime: 25131
   PercentProgress: 7
-- UserStory:
-    Name: Server Implementierung
-    ColorInt: -16744256
+- UserStory: Server Implementierung
   Participant: Nils Brugger
   Working: IDE Installieren & Server Fixen
   StartDate: 2020-03-12T14:30:15.9937445+01:00
@@ -192,9 +158,7 @@ TableRowsShort:
   EstimatedTime: 7200000
   BreakTime: 0
   PercentProgress: 7
-- UserStory:
-    Name: Modelle erstellen
-    ColorInt: -8388353
+- UserStory: Modelle erstellen
   Participant: Tobias Schrottwieser
   Working: Kartenkomponenten werden vorbereitet
   StartDate: 2020-03-12T13:05:18.7336769+01:00
@@ -202,9 +166,7 @@ TableRowsShort:
   EstimatedTime: 14400000
   BreakTime: 27188
   PercentProgress: 50
-- UserStory:
-    Name: Unity Spiel GUI
-    ColorInt: -1303273
+- UserStory: Unity Spiel GUI
   Participant: Kalian Danzer
   Working: Informieren wie man eine schöne GUI baut und  Aufbau des Hauptmenüs
   StartDate: 2020-03-17T16:23:13.2818114+01:00
@@ -212,9 +174,7 @@ TableRowsShort:
   EstimatedTime: 7200000
   BreakTime: 2564589
   PercentProgress: 9
-- UserStory:
-    Name: Modelle erstellen
-    ColorInt: -9954923
+- UserStory: Modelle erstellen
   Participant: Tobias Schrottwieser
   Working: Panzer und Animation
   StartDate: 2020-03-17T14:30:26.0077713+01:00
@@ -222,9 +182,7 @@ TableRowsShort:
   EstimatedTime: 18000000
   BreakTime: 0
   PercentProgress: 30
-- UserStory:
-    Name: Modelle erstellen
-    ColorInt: -9954923
+- UserStory: Modelle erstellen
   Participant: Tobias Schrottwieser
   Working: Panzer und Animation
   StartDate: 2020-03-17T23:47:53.1037854+01:00
@@ -232,9 +190,7 @@ TableRowsShort:
   EstimatedTime: 14400000
   BreakTime: 0
   PercentProgress: 85
-- UserStory:
-    Name: Videos erstellen
-    ColorInt: -5705740
+- UserStory: Videos erstellen
   Participant: Tobias Schrottwieser
   Working: Entwicklungs Video der Spielfiguren (Schrottinger)
   StartDate: 2020-03-18T02:18:05.0717562+01:00
@@ -242,9 +198,7 @@ TableRowsShort:
   EstimatedTime: 7200000
   BreakTime: 0
   PercentProgress: 17
-- UserStory:
-    Name: Server Implementierung
-    ColorInt: -16744256
+- UserStory: Server Implementierung
   Participant: Nils Brugger
   Working: Abeiten am Server
   StartDate: 2020-03-18T19:36:55.2057946+01:00
@@ -252,9 +206,7 @@ TableRowsShort:
   EstimatedTime: 7200000
   BreakTime: 1342517
   PercentProgress: 11
-- UserStory:
-    Name: Server Implementierung
-    ColorInt: -16744256
+- UserStory: Server Implementierung
   Participant: Kalian Danzer
   Working: Fehlerfindung und Lösung dieser zusammen mit Nils
   StartDate: 2020-03-18T18:23:42.0690040+01:00
@@ -262,9 +214,7 @@ TableRowsShort:
   EstimatedTime: 1800000
   BreakTime: 0
   PercentProgress: 0
-- UserStory:
-    Name: Server Implementierung
-    ColorInt: -16744256
+- UserStory: Server Implementierung
   Participant: Nils Brugger
   Working: Fehlerfindung und Lösung dieser
   StartDate: 2020-03-18T18:17:12.0690040+01:00
@@ -272,9 +222,7 @@ TableRowsShort:
   EstimatedTime: 1800000
   BreakTime: 0
   PercentProgress: 0
-- UserStory:
-    Name: Server Implementierung
-    ColorInt: -16744256
+- UserStory: Server Implementierung
   Participant: ''
   Working: Upgrade API & Spiele zeitablauf hinzufügen
   StartDate: 2020-03-19T11:28:21.5969103+01:00
@@ -282,9 +230,7 @@ TableRowsShort:
   EstimatedTime: 9000000
   BreakTime: 10112574
   PercentProgress: 17
-- UserStory:
-    Name: Projektbesprechung
-    ColorInt: -198561
+- UserStory: Projektbesprechung
   Participant: Kalian Danzer
   Working: Besprechung des Aktuellen verlaufes des Projektes
   StartDate: 2020-03-20T13:29:22.5768015+01:00
@@ -292,3 +238,11 @@ TableRowsShort:
   EstimatedTime: 1800000
   BreakTime: 0
   PercentProgress: 0
+- UserStory: Unity Spiel GUI
+  Participant: Kalian Danzer
+  Working: Aufbau des Hauptmenüs
+  StartDate: 2020-03-22T13:29:37.0108788+01:00
+  EndDate: 2020-03-22T18:50:19.7680096+01:00
+  EstimatedTime: 18000000
+  BreakTime: 2918413
+  PercentProgress: 10
