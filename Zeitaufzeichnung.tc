@@ -17,6 +17,8 @@ UserStorys:
   ColorInt: -5705740
 - Name: Projektbesprechung
   ColorInt: -198561
+- Name: Filme
+  ColorInt: -16711936
 Participants:
 - Nils Brugger
 - Kalian Danzer
@@ -245,4 +247,12 @@ TableRowsShort:
   EndDate: 2020-03-22T18:50:19.7680096+01:00
   EstimatedTime: 18000000
   BreakTime: 2918413
+  PercentProgress: 10
+- UserStory: Filme
+  Participant: Tobias Schrottwieser
+  Working: Storyboards entwickeln + Trenner um erlaubnis bitten
+  StartDate: 2020-03-23T18:01:13.4619542+01:00
+  EndDate: 2020-03-23T19:51:17.0448624+01:00
+  EstimatedTime: 7200000
+  BreakTime: 0
   PercentProgress: 10
