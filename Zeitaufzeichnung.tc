@@ -19,6 +19,8 @@ UserStorys:
   ColorInt: -198561
 - Name: Filme
   ColorInt: -16711936
+- Name: Dokumente erstellen
+  ColorInt: -8355840
 Participants:
 - Nils Brugger
 - Kalian Danzer
@@ -256,3 +258,11 @@ TableRowsShort:
   EstimatedTime: 7200000
   BreakTime: 0
   PercentProgress: 10
+- UserStory: Dokumente erstellen
+  Participant: Tobias Schrottwieser
+  Working: Erstellen der Präsentation und des Vortschrittsberichtes
+  StartDate: 2020-03-25T16:04:48.5409985+01:00
+  EndDate: 2020-03-25T17:27:48.3475548+01:00
+  EstimatedTime: 10800000
+  BreakTime: 0
+  PercentProgress: 100
