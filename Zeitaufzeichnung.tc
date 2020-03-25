@@ -266,3 +266,12 @@ TableRowsShort:
   EstimatedTime: 10800000
   BreakTime: 0
   PercentProgress: 100
+- UserStory: Server Implementierung
+  Participant: Nils Brugger
+  Working: Spielablauf implementierung
+  StartDate: 2020-03-23T10:45:33.1372062+01:00
+  EndDate: 2020-03-23T22:00:10.2216301+01:00
+  EstimatedTime: 9000000
+  BreakTime: 21881064
+  PercentProgress: 22
+
