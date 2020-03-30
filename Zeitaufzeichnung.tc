@@ -227,7 +227,7 @@ TableRowsShort:
   BreakTime: 0
   PercentProgress: 0
 - UserStory: Server Implementierung
-  Participant: ''
+  Participant: Nils Brugger
   Working: Upgrade API & Spiele zeitablauf hinzufügen
   StartDate: 2020-03-19T11:28:21.5969103+01:00
   EndDate: 2020-03-19T17:44:48.1217801+01:00
