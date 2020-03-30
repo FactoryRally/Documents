@@ -274,4 +274,11 @@ TableRowsShort:
   EstimatedTime: 9000000
   BreakTime: 21881064
   PercentProgress: 22
-
+- UserStory: Unity Spiel GUI
+  Participant: Kalian Danzer
+  Working: Entwicklung der GUI (Rudimentär)
+  StartDate: 2020-03-30T13:57:20.9534370+02:00
+  EndDate: 2020-03-30T20:53:59.6461139+02:00
+  EstimatedTime: 14400000
+  BreakTime: 5756132
+  PercentProgress: 15
