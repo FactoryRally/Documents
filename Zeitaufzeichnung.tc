@@ -306,4 +306,11 @@ TableRowsShort:
   EstimatedTime: 7200000
   BreakTime: 3769693
   PercentProgress: 18
-
+- UserStory: Modelle erstellen
+  Participant: Tobias Schrottwieser
+  Working: Pressler(Planierraupe) und Animation
+  StartDate: 2020-04-03T03:19:38.9629152+02:00
+  EndDate: 2020-04-03T06:14:48.7252931+02:00
+  EstimatedTime: 10800000
+  BreakTime: 0
+  PercentProgress: 100
