@@ -227,7 +227,7 @@ TableRowsShort:
   BreakTime: 0
   PercentProgress: 0
 - UserStory: Server Implementierung
-  Participant: ''
+  Participant: Nils Brugger
   Working: Upgrade API & Spiele zeitablauf hinzufügen
   StartDate: 2020-03-19T11:28:21.5969103+01:00
   EndDate: 2020-03-19T17:44:48.1217801+01:00
@@ -282,3 +282,28 @@ TableRowsShort:
   EstimatedTime: 10800000
   BreakTime: 0
   PercentProgress: 100
+- UserStory: Unity Spiel GUI
+  Participant: Kalian Danzer
+  Working: Entwicklung der GUI (Rudimentär)
+  StartDate: 2020-03-30T13:57:20.9534370+02:00
+  EndDate: 2020-03-30T20:53:59.6461139+02:00
+  EstimatedTime: 14400000
+  BreakTime: 5756132
+  PercentProgress: 15
+- UserStory: Unity Spiel GUI
+  Participant: Kalian Danzer
+  Working: Entwicklung der GUI (Rudimentär)
+  StartDate: 2020-04-01T15:17:55.4018712+02:00
+  EndDate: 2020-04-01T18:08:36.2822879+02:00
+  EstimatedTime: 14400000
+  BreakTime: 6951547
+  PercentProgress: 16
+- UserStory: Unity Spiel GUI
+  Participant: Kalian Danzer
+  Working: Entwicklung der GUI (Rudimentär)
+  StartDate: 2020-04-02T15:23:52.8763259+02:00
+  EndDate: 2020-04-02T21:04:48.0434874+02:00
+  EstimatedTime: 7200000
+  BreakTime: 3769693
+  PercentProgress: 18
+
