@@ -21,6 +21,8 @@ UserStorys:
   ColorInt: -16711936
 - Name: Dokumente erstellen
   ColorInt: -8355840
+- Name: Level Editor
+  ColorInt: -16744320
 Participants:
 - Nils Brugger
 - Kalian Danzer
@@ -346,3 +348,91 @@ TableRowsShort:
   EstimatedTime: 5400000
   BreakTime: 0
   PercentProgress: 29
+- UserStory: Unity Spiel GUI
+  Participant: Kalian Danzer
+  Working: Entwicklung der GUI (Rudimentär)
+  StartDate: 2020-04-04T12:42:19.2745863+02:00
+  EndDate: 2020-04-04T15:49:37.7600691+02:00
+  EstimatedTime: 14400000
+  BreakTime: 0
+  PercentProgress: 25
+- UserStory: Unity Spiel GUI
+  Participant: Kalian Danzer
+  Working: Entwicklung der GUI (Rudimentär)
+  StartDate: 2020-04-06T23:37:19.0298413+02:00
+  EndDate: 2020-04-07T02:29:31.2600691+02:00
+  EstimatedTime: 14400000
+  BreakTime: 0
+  PercentProgress: 30
+- UserStory: Unity Spiel GUI
+  Participant: Kalian Danzer
+  Working: Entwicklung der GUI (Rudimentär) Rulebook
+  StartDate: 2020-04-07T15:24:29.1132512+02:00
+  EndDate: 2020-04-07T19:52:39.8769180+02:00
+  EstimatedTime: 12600000
+  BreakTime: 2914680
+  PercentProgress: 35
+- UserStory: Unity Spiel GUI
+  Participant: Kalian Danzer
+  Working: Entwicklung der GUI (Rudimentär) Settings
+  StartDate: 2020-04-10T13:12:10.2901413+02:00
+  EndDate: 2020-04-10T19:59:40.6020621+02:00
+  EstimatedTime: 14400000
+  BreakTime: 5344653
+  PercentProgress: 43
+- UserStory: Unity Spiel GUI
+  Participant: Kalian Danzer
+  Working: Entwicklung der GUI (Rudimentär) Ingame GUI
+  StartDate: 2020-04-18T15:22:01.2541431+02:00
+  EndDate: 2020-04-18T18:19:40.6032420+02:00
+  EstimatedTime: 11400000
+  BreakTime: 116523
+  PercentProgress: 46
+- UserStory: Unity Spiel GUI
+  Participant: Kalian Danzer
+  Working: Entwicklung der GUI (Rudimentär) Ingame GUI
+  StartDate: 2020-04-19T19:16:16.9213140+02:00
+  EndDate: 2020-04-19T23:11:10.1626021+02:00
+  EstimatedTime: 14400000
+  BreakTime: 235124
+  PercentProgress: 50
+- UserStory: Level Editor
+  Participant: Kalian Danzer
+  Working: Leveleditor Setup
+  StartDate: 2020-04-23T14:13:41.8000272+02:00
+  EndDate: 2020-04-23T18:11:42.4104317+02:00
+  EstimatedTime: 9000000
+  BreakTime: 1152036
+  PercentProgress: 5
+- UserStory: Level Editor
+  Participant: Kalian Danzer
+  Working: Leveleditor Grid (Shader + Methods)
+  StartDate: 2020-04-24T10:23:21.1002217+02:00
+  EndDate: 2020-04-24T15:11:42.1074843+02:00
+  EstimatedTime: 12000000
+  BreakTime: 2703156
+  PercentProgress: 12
+- UserStory: Level Editor
+  Participant: Kalian Danzer
+  Working: Leveleditor Grid GUI
+  StartDate: 2020-04-26T13:53:21.0271417+02:00
+  EndDate: 2020-04-26T16:41:42.7440123+02:00
+  EstimatedTime: 9880000
+  BreakTime: 1032156
+  PercentProgress: 16
+- UserStory: Level Editor
+  Participant: Kalian Danzer
+  Working: Leveleditor Grid Methods
+  StartDate: 2020-04-27T13:23:42.0734117+02:00
+  EndDate: 2020-04-27T18:11:12.2704123+02:00
+  EstimatedTime: 12600000
+  BreakTime: 3211056
+  PercentProgress: 20
+- UserStory: Level Editor
+  Participant: Kalian Danzer
+  Working: Leveleditor Grid Testing
+  StartDate: 2020-04-28T14:13:46.0234217+02:00
+  EndDate: 2020-04-28T18:01:11.4535123+02:00
+  EstimatedTime: 9000000
+  BreakTime: 1032156
+  PercentProgress: 25
