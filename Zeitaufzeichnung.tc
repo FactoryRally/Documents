@@ -322,3 +322,27 @@ TableRowsShort:
   EstimatedTime: 10800000
   BreakTime: 19490552
   PercentProgress: 16
+- UserStory: Server Implementierung
+  Participant: Nils Brugger
+  Working: Ausbessern der Auth logik
+  StartDate: 2020-04-20T14:27:57.1840078+02:00
+  EndDate: 2020-04-20T19:03:24.7591867+02:00
+  EstimatedTime: 10800000
+  BreakTime: 4283468
+  PercentProgress: 25
+- UserStory: Server Implementierung
+  Participant: Nils Brugger
+  Working: Map API implementierung
+  StartDate: 2020-04-29T17:02:13.4840149+02:00
+  EndDate: 2020-04-29T17:50:19.7171145+02:00
+  EstimatedTime: 9120000
+  BreakTime: 0
+  PercentProgress: 27
+- UserStory: Server Implementierung
+  Participant: Nils Brugger
+  Working: Spielverlauf & Map Repo implementieren & OAS anpassen
+  StartDate: 2020-04-30T02:09:56.8743863+02:00
+  EndDate: 2020-04-30T03:54:57.0842247+02:00
+  EstimatedTime: 5400000
+  BreakTime: 0
+  PercentProgress: 29
