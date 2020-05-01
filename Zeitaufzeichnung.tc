@@ -444,3 +444,19 @@ TableRowsShort:
   EstimatedTime: 10800000
   BreakTime: 0
   PercentProgress: 35
+- UserStory: Modelle erstellen
+  Participant: Tobias Schrottwieser
+  Working: Karten Design
+  StartDate: 2020-04-30T12:12:25.9181521+02:00
+  EndDate: 2020-04-30T15:28:16.3381188+02:00
+  EstimatedTime: 28800000
+  BreakTime: 26419
+  PercentProgress: 100
+- UserStory: Modelle erstellen
+  Participant: Tobias Schrottwieser
+  Working: Felder
+  StartDate: 2020-05-01T15:13:14.2288972+02:00
+  EndDate: 2020-05-01T16:04:16.8672181+02:00
+  EstimatedTime: 10800000
+  BreakTime: 0
+  PercentProgress: 30
