@@ -444,3 +444,11 @@ TableRowsShort:
   EstimatedTime: 10800000
   BreakTime: 0
   PercentProgress: 35
+- UserStory: Level Editor
+  Participant: Kalian Danzer
+  Working: Leveleditor Grid
+  StartDate: 2020-05-04T11:26:38.2642483+02:00
+  EndDate: 2020-05-04T20:01:50.7817688+02:00
+  EstimatedTime: 18000000
+  BreakTime: 5213163
+  PercentProgress: 70
