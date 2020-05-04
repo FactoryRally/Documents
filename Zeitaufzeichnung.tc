@@ -468,3 +468,11 @@ TableRowsShort:
   EstimatedTime: 28800000
   BreakTime: 0
   PercentProgress: 100
+- UserStory: Modelle erstellen
+  Participant: Tobias Schrottwieser
+  Working: Danoter(Roboter) und Naimation
+  StartDate: 2020-05-04T13:47:54.7539166+02:00
+  EndDate: 2020-05-04T16:30:18.6183826+02:00
+  EstimatedTime: 10800000
+  BreakTime: 15382
+  PercentProgress: 100
