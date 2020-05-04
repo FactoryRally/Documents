@@ -452,3 +452,35 @@ TableRowsShort:
   EstimatedTime: 18000000
   BreakTime: 5213163
   PercentProgress: 70
+- UserStory: Modelle erstellen
+  Participant: Tobias Schrottwieser
+  Working: Karten Design
+  StartDate: 2020-04-30T12:12:25.9181521+02:00
+  EndDate: 2020-04-30T15:28:16.3381188+02:00
+  EstimatedTime: 28800000
+  BreakTime: 26419
+  PercentProgress: 100
+- UserStory: Modelle erstellen
+  Participant: Tobias Schrottwieser
+  Working: Felder
+  StartDate: 2020-05-01T15:13:14.2288972+02:00
+  EndDate: 2020-05-01T16:04:16.8672181+02:00
+  EstimatedTime: 10800000
+  BreakTime: 0
+  PercentProgress: 30
+- UserStory: Modelle erstellen
+  Participant: Tobias Schrottwieser
+  Working: Fields
+  StartDate: 2020-05-04T11:40:09.0035786+02:00
+  EndDate: 2020-05-04T13:47:31.3733988+02:00
+  EstimatedTime: 28800000
+  BreakTime: 0
+  PercentProgress: 100
+- UserStory: Modelle erstellen
+  Participant: Tobias Schrottwieser
+  Working: Danoter(Roboter) und Naimation
+  StartDate: 2020-05-04T13:47:54.7539166+02:00
+  EndDate: 2020-05-04T16:30:18.6183826+02:00
+  EstimatedTime: 10800000
+  BreakTime: 15382
+  PercentProgress: 100
