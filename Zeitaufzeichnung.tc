@@ -484,3 +484,19 @@ TableRowsShort:
   EstimatedTime: 10800000
   BreakTime: 15382
   PercentProgress: 100
+- UserStory: Level Editor
+  Participant: Kalian Danzer
+  Working: Level Editor Map Config
+  StartDate: 2020-05-04T23:24:25.3711423+02:00
+  EndDate: 2020-05-05T01:18:54.4938314+02:00
+  EstimatedTime: 3600000
+  BreakTime: 0
+  PercentProgress: 80
+- UserStory: Level Editor
+  Participant: Kalian Danzer
+  Working: Level Editor Endphase
+  StartDate: 2020-05-05T10:30:21.1143883+02:00
+  EndDate: 2020-05-05T17:28:14.131459+02:00
+  EstimatedTime: 18000000
+  BreakTime: 2103437
+  PercentProgress: 95
