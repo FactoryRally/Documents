@@ -476,3 +476,27 @@ TableRowsShort:
   EstimatedTime: 10800000
   BreakTime: 15382
   PercentProgress: 100
+- UserStory: Modelle erstellen
+  Participant: Tobias Schrottwieser
+  Working: Rodith(Schildkröte) mit Animation
+  StartDate: 2020-05-05T17:25:36.0578293+02:00
+  EndDate: 2020-05-05T18:26:33.3102547+02:00
+  EstimatedTime: 10800000
+  BreakTime: 0
+  PercentProgress: 100
+- UserStory: Modelle erstellen
+  Participant: Tobias Schrottwieser
+  Working: Programm Karten
+  StartDate: 2020-05-06T12:34:22.9458543+02:00
+  EndDate: 2020-05-06T15:38:26.8960463+02:00
+  EstimatedTime: 5400000
+  BreakTime: 0
+  PercentProgress: 100
+- UserStory: Modelle erstellen
+  Participant: Tobias Schrottwieser
+  Working: Degolder (Wall-E) und Animationen
+  StartDate: 2020-05-06T15:39:08.4643594+02:00
+  EndDate: 2020-05-06T18:39:09.7059763+02:00
+  EstimatedTime: 12600000
+  BreakTime: 41568
+  PercentProgress: 100
