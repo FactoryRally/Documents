@@ -23,6 +23,8 @@ UserStorys:
   ColorInt: -8355840
 - Name: Level Editor
   ColorInt: -16744320
+- Name: Unity Spiel Implementierung
+  ColorInt: -15925120
 Participants:
 - Nils Brugger
 - Kalian Danzer
@@ -496,7 +498,15 @@ TableRowsShort:
   Participant: Kalian Danzer
   Working: Level Editor Endphase
   StartDate: 2020-05-05T10:30:21.1143883+02:00
-  EndDate: 2020-05-05T17:28:14.131459+02:00
+  EndDate: 2020-05-05T17:28:14.1314590+02:00
   EstimatedTime: 18000000
   BreakTime: 2103437
   PercentProgress: 95
+- UserStory: Unity Spiel Implementierung
+  Participant: Kalian Danzer
+  Working: Level Editor Fixes. Implementation of the dlls
+  StartDate: 2020-05-06T11:45:32.9664709+02:00
+  EndDate: 2020-05-06T18:03:37.4481842+02:00
+  EstimatedTime: 18000000
+  BreakTime: 845039
+  PercentProgress: 5
