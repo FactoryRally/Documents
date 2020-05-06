@@ -23,6 +23,8 @@ UserStorys:
   ColorInt: -8355840
 - Name: Level Editor
   ColorInt: -16744320
+- Name: Unity Spiel Implementierung
+  ColorInt: -15925120
 Participants:
 - Nils Brugger
 - Kalian Danzer
@@ -500,3 +502,51 @@ TableRowsShort:
   EstimatedTime: 3600000
   BreakTime: 0
   PercentProgress: 0
+- UserStory: Modelle erstellen
+  Participant: Tobias Schrottwieser
+  Working: Rodith(Schildkröte) mit Animation
+  StartDate: 2020-05-05T17:25:36.0578293+02:00
+  EndDate: 2020-05-05T18:26:33.3102547+02:00
+  EstimatedTime: 10800000
+  BreakTime: 0
+  PercentProgress: 100
+- UserStory: Modelle erstellen
+  Participant: Tobias Schrottwieser
+  Working: Programm Karten
+  StartDate: 2020-05-06T12:34:22.9458543+02:00
+  EndDate: 2020-05-06T15:38:26.8960463+02:00
+  EstimatedTime: 5400000
+  BreakTime: 0
+  PercentProgress: 100
+- UserStory: Modelle erstellen
+  Participant: Tobias Schrottwieser
+  Working: Degolder (Wall-E) und Animationen
+  StartDate: 2020-05-06T15:39:08.4643594+02:00
+  EndDate: 2020-05-06T18:39:09.7059763+02:00
+  EstimatedTime: 12600000
+  BreakTime: 41568
+  PercentProgress: 100
+- UserStory: Level Editor
+  Participant: Kalian Danzer
+  Working: Level Editor Map Config
+  StartDate: 2020-05-04T23:24:25.3711423+02:00
+  EndDate: 2020-05-05T01:18:54.4938314+02:00
+  EstimatedTime: 3600000
+  BreakTime: 0
+  PercentProgress: 80
+- UserStory: Level Editor
+  Participant: Kalian Danzer
+  Working: Level Editor Endphase
+  StartDate: 2020-05-05T10:30:21.1143883+02:00
+  EndDate: 2020-05-05T17:28:14.1314590+02:00
+  EstimatedTime: 18000000
+  BreakTime: 2103437
+  PercentProgress: 95
+- UserStory: Unity Spiel Implementierung
+  Participant: Kalian Danzer
+  Working: Level Editor Fixes. Implementation of the dlls
+  StartDate: 2020-05-06T11:45:32.9664709+02:00
+  EndDate: 2020-05-06T18:52:37.4481842+02:00
+  EstimatedTime: 18000000
+  BreakTime: 845039
+  PercentProgress: 5
