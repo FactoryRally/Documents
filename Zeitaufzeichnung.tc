@@ -484,3 +484,19 @@ TableRowsShort:
   EstimatedTime: 10800000
   BreakTime: 15382
   PercentProgress: 100
+- UserStory: Spiel Dokumentation
+  Participant: Nils Brugger
+  Working: Dokumentation des gesammten Projekts
+  StartDate: 2020-05-05T13:14:02.8145740+02:00
+  EndDate: 2020-05-05T21:07:42.9893983+02:00
+  EstimatedTime: 5700000
+  BreakTime: 12333330
+  PercentProgress: 95
+- UserStory: Server Implementierung
+  Participant: Nils Brugger
+  Working: Verbessern der Request pipeline
+  StartDate: 2020-05-06T13:01:27.3151241+02:00
+  EndDate: 2020-05-06T16:25:11.0467577+02:00
+  EstimatedTime: 3600000
+  BreakTime: 0
+  PercentProgress: 0
