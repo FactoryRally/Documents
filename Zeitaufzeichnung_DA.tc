@@ -1,6 +1,10 @@
 UserStorys:
 - Name: Social Media Accounts erstellen
   ColorInt: -32513
+- Name: Unity UI
+  ColorInt: -8323328
+- Name: Unity Game
+  ColorInt: -16744193
 Participants:
 - Kalian Danzer
 - Julian Kolesik
@@ -15,4 +19,19 @@ TableRowsShort:
   EstimatedTime: 14400000
   BreakTime: 0
   PercentProgress: 100
-
+- UserStory: Unity Game
+  Participant: Kalian Danzer
+  Working: Einrichten der neuen Unity Version und verbinden der Rest
+  StartDate: 2020-09-18T08:25:27.3966841+02:00
+  EndDate: 2020-09-18T16:35:19.1144730+02:00
+  EstimatedTime: 14400000
+  BreakTime: 2167123
+  PercentProgress: 1
+- UserStory: Unity Game
+  Participant: Kalian Danzer
+  Working: Einfügen der RestApi Schnittstelle und dessen Kommunikation
+  StartDate: 2020-09-21T08:41:19.1254876+02:00
+  EndDate: 2020-09-21T17:21:30.2734611+02:00
+  EstimatedTime: 18000000
+  BreakTime: 3372140
+  PercentProgress: 2
