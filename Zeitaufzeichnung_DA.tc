@@ -35,3 +35,11 @@ TableRowsShort:
   EstimatedTime: 18000000
   BreakTime: 3372140
   PercentProgress: 2
+- UserStory: Unity UI
+  Participant: Kalian Danzer
+  Working: Laden der verfügbaren Lobbys
+  StartDate: 2020-09-24T11:44:53.1192075+02:00
+  EndDate: 2020-09-24T17:57:04.2666982+02:00
+  EstimatedTime: 14400000
+  BreakTime: 5114752
+  PercentProgress: 5
