@@ -43,3 +43,11 @@ TableRowsShort:
   EstimatedTime: 14400000
   BreakTime: 5114752
   PercentProgress: 5
+- UserStory: Unity Game
+  Participant: Kalian Danzer
+  Working: Http Requests Methode unabhängiger schreiben
+  StartDate: 2020-09-26T12:35:31.3619352+02:00
+  EndDate: 2020-09-26T16:39:51.9046294+02:00
+  EstimatedTime: 7200000
+  BreakTime: 0
+  PercentProgress: 3
