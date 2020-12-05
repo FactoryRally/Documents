@@ -13,12 +13,12 @@ Participants:
 TableRowsShort:
 - UserStory: Social Media Accounts erstellen
   Participant: Tobias Schrottwieser
-  Working: Die Social Media Accounts für Instagram etc. werden erstellt
+  Working: Die Social Media Accounts werden erstellt und über E-Mail/SMS verifiziert
   StartDate: 2020-09-17T13:25:11.6068717+02:00
   EndDate: 2020-09-17T16:53:40.7662499+02:00
   EstimatedTime: 14400000
   BreakTime: 0
-  PercentProgress: 100
+  PercentProgress: 30
 - UserStory: Unity Game
   Participant: Kalian Danzer
   Working: Einrichten der neuen Unity Version und verbinden der Rest
