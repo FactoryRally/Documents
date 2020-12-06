@@ -1,5 +1,5 @@
 UserStorys:
-- Name: Social Media Accounts erstellen
+- Name: Social Media Accounts
   ColorInt: -32513
 - Name: Unity UI
   ColorInt: -8323328
@@ -29,13 +29,15 @@ UserStorys:
   ColorInt: -32768
 - Name: State of the Art - Referenzen und Quellen suchen
   ColorInt: -329792
+- Name: Website
+  ColorInt: -6488064
 Participants:
 - Kalian Danzer
 - Julian Kolesik
 - Nils Brugger
 - Tobias Schrottwieser
 TableRowsShort:
-- UserStory: Social Media Accounts erstellen
+- UserStory: Social Media Accounts
   Participant: Tobias Schrottwieser
   Working: Die Social Media Accounts werden erstellt und über E-Mail/SMS verifiziert
   StartDate: 2020-09-17T13:25:11.6068717+02:00
@@ -86,144 +88,280 @@ TableRowsShort:
 - UserStory: Raspberry Pi aufsetzen
   Participant: Julian Kolesik
   Working: Einrichtung
-  StartDate: 2020-10-07T17:31+02:00
-  EndDate: 2020-10-07T18:02+02:00
+  StartDate: 2020-10-07T17:31:00.0000000+02:00
+  EndDate: 2020-10-07T18:02:00.0000000+02:00
   EstimatedTime: 1860000
   BreakTime: 0
   PercentProgress: 100
 - UserStory: State of the Art - Referenzen und Quellen suchen
   Participant: Julian Kolesik
   Working: Suche auf Google Scholar + TU Wien Bibliothek
-  StartDate: 2020-10-09T16:04+02:00
-  EndDate: 2020-10-09T17:00+02:00
+  StartDate: 2020-10-09T16:04:00.0000000+02:00
+  EndDate: 2020-10-09T17:00:00.0000000+02:00
   EstimatedTime: 3360000
   BreakTime: 0
   PercentProgress: 17
 - UserStory: State of the Art - Referenzen und Quellen suchen
   Participant: Julian Kolesik
   Working: TU Wien Bibliothek
-  StartDate: 2020-10-10T12:04+02:00
-  EndDate: 2020-10-10T13:09+02:00
+  StartDate: 2020-10-10T12:04:00.0000000+02:00
+  EndDate: 2020-10-10T13:09:00.0000000+02:00
   EstimatedTime: 3900000
   BreakTime: 7
   PercentProgress: 41
-- UserStory: "DA: Einleitung"
+- UserStory: 'DA: Einleitung'
   Participant: Julian Kolesik
   Working: Einleitung zur DA formulieren - 1. Version
-  StartDate: 2020-10-08T15:11+02:00
-  EndDate: 2020-10-08T16:05+2:00
+  StartDate: 2020-10-08T15:11:00.0000000+02:00
+  EndDate: 2020-10-08T16:05:00.0000000+02:00
   EstimatedTime: 3240000
   BreakTime: 0
   PercentProgress: 43
-- UserStory: "DA: Mendeley Integration + Einführung"
+- UserStory: 'DA: Mendeley Integration + Einführung'
   Participant: Julian Kolesik
   Working: Mendeley in das Overleaf Projekt integrieren + Einführung fürs Team
-  StartDate: 2020-10-08T16:08+02:00
-  EndDate: 2020-10-08T16:35+2:00
+  StartDate: 2020-10-08T16:08:00.0000000+02:00
+  EndDate: 2020-10-08T16:35:00.0000000+02:00
   EstimatedTime: 1620000
   BreakTime: 0
   PercentProgress: 100
 - UserStory: State of the Art verfassen
   Participant: Julian Kolesik
   Working: Einleitung schreiben
-  StartDate: 2020-10-15T14:11+02:00
-  EndDate: 2020-10-15T15:55+2:00
+  StartDate: 2020-10-15T14:11:00.0000000+02:00
+  EndDate: 2020-10-15T15:55:00.0000000+02:00
   EstimatedTime: 6240000
   BreakTime: 0
   PercentProgress: 4
 - UserStory: State of the Art verfassen
   Participant: Julian Kolesik
   Working: Wichtige Infos aus Quellen zu MQTT zusammenfassen
-  StartDate: 2020-10-21T19:15+02:00
-  EndDate: 2020-10-21T20:56+2:00
+  StartDate: 2020-10-21T19:15:00.0000000+02:00
+  EndDate: 2020-10-21T20:56:00.0000000+02:00
   EstimatedTime: 6060000
   BreakTime: 28
   PercentProgress: 6
 - UserStory: State of the Art verfassen
   Participant: Julian Kolesik
   Working: Wichtige Infos aus Quellen zu AMQP zusammenfassen
-  StartDate: 2020-10-22T17:23+02:00
-  EndDate: 2020-10-22T19:21+2:00
+  StartDate: 2020-10-22T17:23:00.0000000+02:00
+  EndDate: 2020-10-22T19:21:00.0000000+02:00
   EstimatedTime: 7080000
   BreakTime: 11
   PercentProgress: 9
 - UserStory: State of the Art verfassen
   Participant: Julian Kolesik
   Working: Kapitel AMQP und MQTT verfasst
-  StartDate: 2020-10-26T14:01+02:00
-  EndDate: 2020-10-26T18:46+2:00
+  StartDate: 2020-10-26T13:01:00.0000000+01:00
+  EndDate: 2020-10-26T17:46:00.0000000+01:00
   EstimatedTime: 17100000
   BreakTime: 43
   PercentProgress: 21
 - UserStory: State of the Art verfassen
   Participant: Julian Kolesik
   Working: Wichtige Infos aus Quellen zu CoAP zusammenfassen + Kapitel CoAP schreiben
-  StartDate: 2020-11-07T15:03+02:00
-  EndDate: 2020-11-07T17:53+2:00
+  StartDate: 2020-11-07T14:03:00.0000000+01:00
+  EndDate: 2020-11-07T16:53:00.0000000+01:00
   EstimatedTime: 10200000
   BreakTime: 25
   PercentProgress: 36
 - UserStory: State of the Art verfassen
   Participant: Julian Kolesik
   Working: Gegenüberstellung verfassen
-  StartDate: 2020-11-11T19:12+02:00
-  EndDate: 2020-11-11T22:41+2:00
+  StartDate: 2020-11-11T18:12:00.0000000+01:00
+  EndDate: 2020-11-11T21:41:00.0000000+01:00
   EstimatedTime: 12540000
   BreakTime: 31
   PercentProgress: 51
 - UserStory: State of the Art verfassen
   Participant: Julian Kolesik
   Working: Fazit verfassen
-  StartDate: 2020-11-20T14:18+02:00
-  EndDate: 2020-11-20T16:33+2:00
+  StartDate: 2020-11-20T13:18:00.0000000+01:00
+  EndDate: 2020-11-20T15:33:00.0000000+01:00
   EstimatedTime: 8100000
   BreakTime: 21
   PercentProgress: 58
 - UserStory: State of the Art verfassen
   Participant: Julian Kolesik
   Working: Überprüfung und Korrektur
-  StartDate: 2020-11-24T16:35+02:00
-  EndDate: 2020-11-24T18:54+2:00
+  StartDate: 2020-11-24T15:35:00.0000000+01:00
+  EndDate: 2020-11-24T17:54:00.0000000+01:00
   EstimatedTime: 8340000
   BreakTime: 37
   PercentProgress: 66
 - UserStory: State of the Art verfassen
   Participant: Julian Kolesik
   Working: Finale Überprüfung und Abgabe der 1. Version
-  StartDate: 2020-11-26T14:12+02:00
-  EndDate: 2020-11-26T15:55+2:00
+  StartDate: 2020-11-26T13:12:00.0000000+01:00
+  EndDate: 2020-11-26T14:55:00.0000000+01:00
   EstimatedTime: 6180000
   BreakTime: 7
   PercentProgress: 68
-- UserStory: Raspberry Pi vorbereiten (Libraries installieren etc.)
-  Participant: Julian Kolesik
-  Working: MQTT, AMQP, CoAP installieren
-  StartDate: 2020-11-16T16:20+02:00
-  EndDate: 2020-11-16T18:44+2:00
-  EstimatedTime: 8640000
-  BreakTime: 21
-  PercentProgress: 100
 - UserStory: State of the Art verfassen
   Participant: Julian Kolesik
   Working: Libraries ausprobieren und Resultate visualisieren
-  StartDate: 2020-11-08T17:55+02:00
-  EndDate: 2020-11-08T18:59+2:00
+  StartDate: 2020-11-08T16:55:00.0000000+01:00
+  EndDate: 2020-11-08T17:59:00.0000000+01:00
   EstimatedTime: 3840000
   BreakTime: 25
   PercentProgress: 42
 - UserStory: State of the Art verfassen
   Participant: Julian Kolesik
   Working: Datenakquirierung von REST-Schnittstelle implementieren
-  StartDate: 2020-11-28T12:04+02:00
-  EndDate: 2020-11-28T15:21+2:00
+  StartDate: 2020-11-28T11:04:00.0000000+01:00
+  EndDate: 2020-11-28T14:21:00.0000000+01:00
   EstimatedTime: 11820000
   BreakTime: 38
   PercentProgress: 55
 - UserStory: State of the Art verfassen
   Participant: Julian Kolesik
   Working: MQTT-Beispiel ausführen -> grundlegende Funktionalität prüfen -> Verbindung zu Endgeräten aufbauen
-  StartDate: 2020-12-02T21:05+02:00
-  EndDate: 2020-12-02T22:31+2:00
+  StartDate: 2020-12-02T20:05:00.0000000+01:00
+  EndDate: 2020-12-02T21:31:00.0000000+01:00
   EstimatedTime: 11820000
   BreakTime: 0
   PercentProgress: 64
+- UserStory: Raspberry Pi vorbereiten (Libraries installieren etc.)
+  Participant: Julian Kolesik
+  Working: MQTT, AMQP, CoAP installieren
+  StartDate: 2020-11-16T15:20:00.0000000+01:00
+  EndDate: 2020-11-16T17:44:00.0000000+01:00
+  EstimatedTime: 8640000
+  BreakTime: 21
+  PercentProgress: 100
+- UserStory: Website
+  Participant: Tobias Schrottwieser
+  Working: Website Erstellung
+  StartDate: 2020-09-15T14:39:04.3319648+02:00
+  EndDate: 2020-09-15T20:07:09.9559652+02:00
+  EstimatedTime: 14400000
+  BreakTime: 922
+  PercentProgress: 25
+- UserStory: Website
+  Participant: Tobias Schrottwieser
+  Working: Website mit Content füllen
+  StartDate: 2020-10-10T16:45:35.5689137+02:00
+  EndDate: 2020-10-10T22:02:37.1641065+02:00
+  EstimatedTime: 21600000
+  BreakTime: 25613
+  PercentProgress: 55
+- UserStory: Social Media Accounts
+  Participant: Tobias Schrottwieser
+  Working: Erste Bestückung der Beschreibung und CO.
+  StartDate: 2020-12-06T15:03:33.5278641+01:00
+  EndDate: 2020-12-06T15:03:34.4251187+01:00
+  EstimatedTime: 21600000
+  BreakTime: 56363
+  PercentProgress: 75
+- UserStory: State of the Art verfassen
+  Participant: Tobias Schrottwieser
+  Working: Recherche
+  StartDate: 2020-10-10T16:04:19.2440098+02:00
+  EndDate: 2020-10-10T17:34:20.3470092+02:00
+  EstimatedTime: 14400000
+  BreakTime: 44819
+  PercentProgress: 5
+- UserStory: 'DA: Quellen und Referenzen definieren'
+  Participant: Tobias Schrottwieser
+  Working: Recherche implementieren
+  StartDate: 2020-10-14T16:15:16.2590651+02:00
+  EndDate: 2020-10-14T17:02:17.5040638+02:00
+  EstimatedTime: 7200000
+  BreakTime: 55913
+  PercentProgress: 100
+- UserStory: 'DA: Mendeley Integration'
+  Participant: Tobias Schrottwieser
+  Working: Mendeley in das Overleaf Projekt integrieren
+  StartDate: 2020-10-08T16:08:00.0000000+02:00
+  EndDate: 2020-10-08T16:35:00.0000000+02:00
+  EstimatedTime: 1620000
+  BreakTime: 0
+  PercentProgress: 100
+- UserStory: State of the Art verfassen
+  Participant: Tobias Schrottwieser
+  Working: Einleitung schreiben
+  StartDate: 2020-10-15T14:13:00.0000000+02:00
+  EndDate: 2020-10-15T17:23:00.0000000+02:00
+  EstimatedTime: 6240000
+  BreakTime: 0
+  PercentProgress: 10
+- UserStory: State of the Art verfassen
+  Participant: Tobias Schrottwieser
+  Working: Wichtige Infos über Schnittprogramme und Marketingstrategien zusammentragen
+  StartDate: 2020-10-21T18:55:00.0000000+02:00
+  EndDate: 2020-10-21T20:47:00.0000000+02:00
+  EstimatedTime: 6060000
+  BreakTime: 28
+  PercentProgress: 16
+- UserStory: State of the Art verfassen
+  Participant: Tobias Schrottwieser
+  Working: Gegenüberstellung verfassen
+  StartDate: 2020-10-26T13:09:00.0000000+01:00
+  EndDate: 2020-10-26T19:07:00.0000000+01:00
+  EstimatedTime: 17100000
+  BreakTime: 43
+  PercentProgress: 40
+- UserStory: State of the Art verfassen
+  Participant: Tobias Schrottwieser
+  Working: Fazit verfassen
+  StartDate: 2020-11-20T16:18:00.0000000+01:00
+  EndDate: 2020-11-20T17:33:00.0000000+01:00
+  EstimatedTime: 8100000
+  BreakTime: 21
+  PercentProgress: 65
+- UserStory: State of the Art verfassen
+  Participant: Tobias Schrottwieser
+  Working: Überprüfung und Korrektur und Ergänzung von Glossar etc.
+  StartDate: 2020-11-24T15:27:00.0000000+01:00
+  EndDate: 2020-11-24T17:34:00.0000000+01:00
+  EstimatedTime: 8340000
+  BreakTime: 37
+  PercentProgress: 70
+- UserStory: State of the Art verfassen
+  Participant: Tobias Schrottwieser
+  Working: Finale Überprüfung und Abgabe der 1. Version
+  StartDate: 2020-11-26T13:15:00.0000000+01:00
+  EndDate: 2020-11-26T15:55:00.0000000+01:00
+  EstimatedTime: 6180000
+  BreakTime: 7
+  PercentProgress: 75
+- UserStory: Social Media Accounts
+  Participant: Tobias Schrottwieser
+  Working: 'Logo Erstellung '
+  StartDate: 2020-12-06T15:13:06.5043406+01:00
+  EndDate: 2020-12-06T15:13:07.2372726+01:00
+  EstimatedTime: 7200000
+  BreakTime: 403754
+  PercentProgress: 100
+- UserStory: Social Media Accounts
+  Participant: Tobias Schrottwieser
+  Working: Schriftzug Erstellung
+  StartDate: 2020-12-06T15:13:36.6504589+01:00
+  EndDate: 2020-12-06T15:13:37.2204137+01:00
+  EstimatedTime: 10800000
+  BreakTime: 29414
+  PercentProgress: 100
+- UserStory: Website
+  Participant: Tobias Schrottwieser
+  Working: Verbessern
+  StartDate: 2020-10-22T14:33:53.2762736+02:00
+  EndDate: 2020-10-22T19:17:54.5961059+02:00
+  EstimatedTime: 10800000
+  BreakTime: 136055
+  PercentProgress: 65
+- UserStory: Social Media Accounts
+  Participant: Tobias Schrottwieser
+  Working: Maskottchen
+  StartDate: 2020-11-17T15:15:33.7213007+01:00
+  EndDate: 2020-11-17T16:16:34.2112215+01:00
+  EstimatedTime: 3600000
+  BreakTime: 39127
+  PercentProgress: 65
+- UserStory: Website
+  Participant: Tobias Schrottwieser
+  Working: Domain
+  StartDate: 2020-09-20T16:15:33.1778871+02:00
+  EndDate: 2020-09-20T21:47:33.7038699+02:00
+  EstimatedTime: 10800000
+  BreakTime: 118966
+  PercentProgress: 30
