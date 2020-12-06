@@ -1,36 +1,30 @@
 UserStorys:
-- Name: Social Media Accounts
-  ColorInt: -32513
-- Name: Unity UI
-  ColorInt: -8323328
 - Name: Unity Game
   ColorInt: -16744193
-- Name: State of the Art verfassen
-  ColorInt: -16744193
-- Name: 'DA: Einleitung'
-  ColorInt: -16744193
-- Name: 'DA: Titelblatt anpassen'
-  ColorInt: -16744193
-- Name: 'DA: Quellen und Referenzen definieren'
-  ColorInt: -16744193
-- Name: 'DA: Mendeley Integration'
-  ColorInt: -16744193
-- Name: Raspberry Pi aufsetzen
-  ColorInt: -16744193
-- Name: Raspberry Pi vorbereiten (Libraries installieren etc.)
-  ColorInt: -16744193
-- Name: Datenakquirierung von REST-Schnittstelle testen
-  ColorInt: -16744193
-- Name: MQTT-Beispiel
-  ColorInt: -16744193
-- Name: MQTT-Topic -> Research
-  ColorInt: -16744193
-- Name: Datenakquirierung von REST-Schnittstelle implementieren
-  ColorInt: -32768
-- Name: State of the Art - Referenzen und Quellen suchen
-  ColorInt: -329792
+- Name: Unity UI
+  ColorInt: -16744256
 - Name: Website
   ColorInt: -6488064
+- Name: Social Media Accounts
+  ColorInt: -32640
+- Name: SotA verfassen
+  ColorInt: -12632257
+- Name: SotA - Referenzen und Quellen
+  ColorInt: -4144960
+- Name: 'DA: Einleitung'
+  ColorInt: -11971991
+- Name: 'DA: Titelblatt anpassen'
+  ColorInt: -13091756
+- Name: 'DA: Mendeley Integration'
+  ColorInt: -12499118
+- Name: Raspberry Pi
+  ColorInt: -256
+- Name: MQTT-Beispiel
+  ColorInt: -1385958
+- Name: Datenakquirierung von REST-Schnittstelle implementieren
+  ColorInt: -86
+- Name: Datenakquirierung von REST-Schnittstelle testen
+  ColorInt: -37
 Participants:
 - Kalian Danzer
 - Julian Kolesik
@@ -77,7 +71,7 @@ TableRowsShort:
   EstimatedTime: 7200000
   BreakTime: 0
   PercentProgress: 3
-- UserStory: State of the Art - Referenzen und Quellen suchen
+- UserStory: SotA - Referenzen und Quellen
   Participant: Julian Kolesik
   Working: Grundlegende Recherche auf Wikipedia und im Web allgemein
   StartDate: 2020-10-06T13:20:00.0000000+02:00
@@ -85,7 +79,7 @@ TableRowsShort:
   EstimatedTime: 7560000
   BreakTime: 300000
   PercentProgress: 6
-- UserStory: Raspberry Pi aufsetzen
+- UserStory: Raspberry Pi
   Participant: Julian Kolesik
   Working: Einrichtung
   StartDate: 2020-10-07T17:31:00.0000000+02:00
@@ -93,7 +87,7 @@ TableRowsShort:
   EstimatedTime: 1860000
   BreakTime: 0
   PercentProgress: 100
-- UserStory: State of the Art - Referenzen und Quellen suchen
+- UserStory: SotA - Referenzen und Quellen
   Participant: Julian Kolesik
   Working: Suche auf Google Scholar + TU Wien Bibliothek
   StartDate: 2020-10-09T16:04:00.0000000+02:00
@@ -101,7 +95,7 @@ TableRowsShort:
   EstimatedTime: 3360000
   BreakTime: 0
   PercentProgress: 17
-- UserStory: State of the Art - Referenzen und Quellen suchen
+- UserStory: SotA - Referenzen und Quellen
   Participant: Julian Kolesik
   Working: TU Wien Bibliothek
   StartDate: 2020-10-10T12:04:00.0000000+02:00
@@ -117,7 +111,7 @@ TableRowsShort:
   EstimatedTime: 3240000
   BreakTime: 0
   PercentProgress: 43
-- UserStory: 'DA: Mendeley Integration + Einführung'
+- UserStory: 'DA: Mendeley Integration'
   Participant: Julian Kolesik
   Working: Mendeley in das Overleaf Projekt integrieren + Einführung fürs Team
   StartDate: 2020-10-08T16:08:00.0000000+02:00
@@ -125,7 +119,7 @@ TableRowsShort:
   EstimatedTime: 1620000
   BreakTime: 0
   PercentProgress: 100
-- UserStory: State of the Art verfassen
+- UserStory: SotA verfassen
   Participant: Julian Kolesik
   Working: Einleitung schreiben
   StartDate: 2020-10-15T14:11:00.0000000+02:00
@@ -133,7 +127,7 @@ TableRowsShort:
   EstimatedTime: 6240000
   BreakTime: 0
   PercentProgress: 4
-- UserStory: State of the Art verfassen
+- UserStory: SotA verfassen
   Participant: Julian Kolesik
   Working: Wichtige Infos aus Quellen zu MQTT zusammenfassen
   StartDate: 2020-10-21T19:15:00.0000000+02:00
@@ -141,7 +135,7 @@ TableRowsShort:
   EstimatedTime: 6060000
   BreakTime: 1320000
   PercentProgress: 6
-- UserStory: State of the Art verfassen
+- UserStory: SotA verfassen
   Participant: Julian Kolesik
   Working: Wichtige Infos aus Quellen zu AMQP zusammenfassen
   StartDate: 2020-10-22T17:23:00.0000000+02:00
@@ -149,7 +143,7 @@ TableRowsShort:
   EstimatedTime: 7080000
   BreakTime: 660000
   PercentProgress: 9
-- UserStory: State of the Art verfassen
+- UserStory: SotA verfassen
   Participant: Julian Kolesik
   Working: Kapitel AMQP und MQTT verfasst
   StartDate: 2020-10-26T13:01:00.0000000+01:00
@@ -157,7 +151,7 @@ TableRowsShort:
   EstimatedTime: 17100000
   BreakTime: 1980000
   PercentProgress: 21
-- UserStory: State of the Art verfassen
+- UserStory: SotA verfassen
   Participant: Julian Kolesik
   Working: Wichtige Infos aus Quellen zu CoAP zusammenfassen + Kapitel CoAP schreiben
   StartDate: 2020-11-07T14:03:00.0000000+01:00
@@ -165,7 +159,7 @@ TableRowsShort:
   EstimatedTime: 10200000
   BreakTime: 1200000
   PercentProgress: 36
-- UserStory: State of the Art verfassen
+- UserStory: SotA verfassen
   Participant: Julian Kolesik
   Working: Gegenüberstellung verfassen
   StartDate: 2020-11-11T18:12:00.0000000+01:00
@@ -173,7 +167,7 @@ TableRowsShort:
   EstimatedTime: 12540000
   BreakTime: 1740000
   PercentProgress: 51
-- UserStory: State of the Art verfassen
+- UserStory: SotA verfassen
   Participant: Julian Kolesik
   Working: Fazit verfassen
   StartDate: 2020-11-20T13:18:00.0000000+01:00
@@ -181,7 +175,7 @@ TableRowsShort:
   EstimatedTime: 8100000
   BreakTime: 1080000
   PercentProgress: 58
-- UserStory: State of the Art verfassen
+- UserStory: SotA verfassen
   Participant: Julian Kolesik
   Working: Überprüfung und Korrektur
   StartDate: 2020-11-24T15:35:00.0000000+01:00
@@ -189,7 +183,7 @@ TableRowsShort:
   EstimatedTime: 8340000
   BreakTime: 1260000
   PercentProgress: 66
-- UserStory: State of the Art verfassen
+- UserStory: SotA verfassen
   Participant: Julian Kolesik
   Working: Finale Überprüfung und Abgabe der 1. Version
   StartDate: 2020-11-26T13:12:00.0000000+01:00
@@ -197,7 +191,7 @@ TableRowsShort:
   EstimatedTime: 6180000
   BreakTime: 420000
   PercentProgress: 68
-- UserStory: State of the Art verfassen
+- UserStory: SotA verfassen
   Participant: Julian Kolesik
   Working: Libraries ausprobieren und Resultate visualisieren
   StartDate: 2020-11-08T16:55:00.0000000+01:00
@@ -221,7 +215,7 @@ TableRowsShort:
   EstimatedTime: 11820000
   BreakTime: 0
   PercentProgress: 64
-- UserStory: Raspberry Pi vorbereiten (Libraries installieren etc.)
+- UserStory: Raspberry Pi
   Participant: Julian Kolesik
   Working: MQTT, AMQP, CoAP installieren
   StartDate: 2020-11-16T15:20:00.0000000+01:00
@@ -253,7 +247,7 @@ TableRowsShort:
   EstimatedTime: 21600000
   BreakTime: 56363
   PercentProgress: 75
-- UserStory: State of the Art verfassen
+- UserStory: SotA verfassen
   Participant: Tobias Schrottwieser
   Working: Recherche
   StartDate: 2020-10-10T16:04:19.2440098+02:00
@@ -261,7 +255,7 @@ TableRowsShort:
   EstimatedTime: 14400000
   BreakTime: 44819
   PercentProgress: 5
-- UserStory: 'DA: Quellen und Referenzen definieren'
+- UserStory: SotA - Referenzen und Quellen
   Participant: Tobias Schrottwieser
   Working: Recherche implementieren
   StartDate: 2020-10-14T16:15:16.2590651+02:00
@@ -277,7 +271,7 @@ TableRowsShort:
   EstimatedTime: 1620000
   BreakTime: 0
   PercentProgress: 100
-- UserStory: State of the Art verfassen
+- UserStory: SotA verfassen
   Participant: Tobias Schrottwieser
   Working: Einleitung schreiben
   StartDate: 2020-10-15T14:13:00.0000000+02:00
@@ -285,7 +279,7 @@ TableRowsShort:
   EstimatedTime: 6240000
   BreakTime: 0
   PercentProgress: 10
-- UserStory: State of the Art verfassen
+- UserStory: SotA verfassen
   Participant: Tobias Schrottwieser
   Working: Wichtige Infos über Schnittprogramme und Marketingstrategien zusammentragen
   StartDate: 2020-10-21T18:55:00.0000000+02:00
@@ -293,7 +287,7 @@ TableRowsShort:
   EstimatedTime: 6060000
   BreakTime: 28
   PercentProgress: 16
-- UserStory: State of the Art verfassen
+- UserStory: SotA verfassen
   Participant: Tobias Schrottwieser
   Working: Gegenüberstellung verfassen
   StartDate: 2020-10-26T13:09:00.0000000+01:00
@@ -301,7 +295,7 @@ TableRowsShort:
   EstimatedTime: 17100000
   BreakTime: 43
   PercentProgress: 40
-- UserStory: State of the Art verfassen
+- UserStory: SotA verfassen
   Participant: Tobias Schrottwieser
   Working: Fazit verfassen
   StartDate: 2020-11-20T16:18:00.0000000+01:00
@@ -309,7 +303,7 @@ TableRowsShort:
   EstimatedTime: 8100000
   BreakTime: 21
   PercentProgress: 65
-- UserStory: State of the Art verfassen
+- UserStory: SotA verfassen
   Participant: Tobias Schrottwieser
   Working: Überprüfung und Korrektur und Ergänzung von Glossar etc.
   StartDate: 2020-11-24T15:27:00.0000000+01:00
@@ -317,7 +311,7 @@ TableRowsShort:
   EstimatedTime: 8340000
   BreakTime: 37
   PercentProgress: 70
-- UserStory: State of the Art verfassen
+- UserStory: SotA verfassen
   Participant: Tobias Schrottwieser
   Working: Finale Überprüfung und Abgabe der 1. Version
   StartDate: 2020-11-26T13:15:00.0000000+01:00
@@ -365,3 +359,67 @@ TableRowsShort:
   EstimatedTime: 10800000
   BreakTime: 118966
   PercentProgress: 30
+- UserStory: SotA - Referenzen und Quellen
+  Participant: Kalian Danzer
+  Working: Suche nach Quellen und notieren dieser
+  StartDate: 2020-10-08T15:22:00.0000000+02:00
+  EndDate: 2020-10-08T16:52:00.0000000+02:00
+  EstimatedTime: 7200000
+  BreakTime: 0
+  PercentProgress: 30
+- UserStory: SotA - Referenzen und Quellen
+  Participant: Kalian Danzer
+  Working: Suche nach Wissenschaftlichen Quellen (TU-Wien)
+  StartDate: 2020-10-09T16:22:00.0000000+02:00
+  EndDate: 2020-10-09T17:20:00.0000000+02:00
+  EstimatedTime: 3600000
+  BreakTime: 0
+  PercentProgress: 50
+- UserStory: SotA - Referenzen und Quellen
+  Participant: Kalian Danzer
+  Working: Genaueres Durchlesen und Aussortieren der Quellen
+  StartDate: 2020-10-10T13:02:00.0000000+02:00
+  EndDate: 2020-10-10T14:27:00.0000000+02:00
+  EstimatedTime: 3600000
+  BreakTime: 0
+  PercentProgress: 100
+- UserStory: SotA verfassen
+  Participant: Kalian Danzer
+  Working: Einführung und Fragestellung
+  StartDate: 2020-11-12T13:10+01:00
+  EndDate: 2020-11-12T16:52+01:00
+  EstimatedTime: 14400000
+  BreakTime: 1464564
+  PercentProgress: 20
+- UserStory: SotA verfassen
+  Participant: Kalian Danzer
+  Working: Regeln 1-5
+  StartDate: 2020-11-16T13:27+01:00
+  EndDate: 2020-11-16T16:31+01:00
+  EstimatedTime: 14400000
+  BreakTime: 0
+  PercentProgress: 40
+- UserStory: SotA verfassen
+  Participant: Kalian Danzer
+  Working: Regeln 6-10
+  StartDate: 2020-11-17T14:01+01:00
+  EndDate: 2020-11-17T17:47+01:00
+  EstimatedTime: 14400000
+  BreakTime: 0
+  PercentProgress: 60
+- UserStory: SotA verfassen
+  Participant: Kalian Danzer
+  Working: Messmethoden
+  StartDate: 2020-11-19T13:31+01:00
+  EndDate: 2020-11-19T17:51+01:00
+  EstimatedTime: 21600000
+  BreakTime: 8766
+  PercentProgress: 80
+- UserStory: SotA verfassen
+  Participant: Kalian Danzer
+  Working: Fazit sowie Conlusio
+  StartDate: 2020-11-20T12:21+01:00
+  EndDate: 2020-11-20T18:21+01:00
+  EstimatedTime: 21600000
+  BreakTime: 318766
+  PercentProgress: 95
