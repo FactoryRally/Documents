@@ -5,6 +5,30 @@ UserStorys:
   ColorInt: -8323328
 - Name: Unity Game
   ColorInt: -16744193
+- Name: State of the Art verfassen
+  ColorInt: -16744193
+- Name: 'DA: Einleitung'
+  ColorInt: -16744193
+- Name: 'DA: Titelblatt anpassen'
+  ColorInt: -16744193
+- Name: 'DA: Quellen und Referenzen definieren'
+  ColorInt: -16744193
+- Name: 'DA: Mendeley Integration'
+  ColorInt: -16744193
+- Name: Raspberry Pi aufsetzen
+  ColorInt: -16744193
+- Name: Raspberry Pi vorbereiten (Libraries installieren etc.)
+  ColorInt: -16744193
+- Name: Datenakquirierung von REST-Schnittstelle testen
+  ColorInt: -16744193
+- Name: MQTT-Beispiel ausführen -> grundlegende Funktionalität prüfen -> Verbindung zu Endgeräten aufbauen
+  ColorInt: -16744193
+- Name: MQTT-Topic -> Research
+  ColorInt: -16744193
+- Name: Datenakquirierung von REST-Schnittstelle implementieren
+  ColorInt: -32768
+- Name: State of the Art - Referenzen und Quellen suchen
+  ColorInt: -329792
 Participants:
 - Kalian Danzer
 - Julian Kolesik
@@ -51,3 +75,155 @@ TableRowsShort:
   EstimatedTime: 7200000
   BreakTime: 0
   PercentProgress: 3
+- UserStory: State of the Art - Referenzen und Quellen suchen
+  Participant: Julian Kolesik
+  Working: Grundlegende Recherche auf Wikipedia und im Web allgemein
+  StartDate: 2020-10-06T13:20:00.0000000+02:00
+  EndDate: 2020-10-06T15:26:00.0000000+02:00
+  EstimatedTime: 7560000
+  BreakTime: 5
+  PercentProgress: 6
+- UserStory: Raspberry Pi aufsetzen
+  Participant: Julian Kolesik
+  Working: Einrichtung
+  StartDate: 2020-10-07T17:31+02:00
+  EndDate: 2020-10-07T18:02+02:00
+  EstimatedTime: 1860000
+  BreakTime: 0
+  PercentProgress: 100
+- UserStory: State of the Art - Referenzen und Quellen suchen
+  Participant: Julian Kolesik
+  Working: Suche auf Google Scholar + TU Wien Bibliothek
+  StartDate: 2020-10-09T16:04+02:00
+  EndDate: 2020-10-09T17:00+02:00
+  EstimatedTime: 3360000
+  BreakTime: 0
+  PercentProgress: 17
+- UserStory: State of the Art - Referenzen und Quellen suchen
+  Participant: Julian Kolesik
+  Working: TU Wien Bibliothek
+  StartDate: 2020-10-10T12:04+02:00
+  EndDate: 2020-10-10T13:09+02:00
+  EstimatedTime: 3900000
+  BreakTime: 7
+  PercentProgress: 41
+- UserStory: "DA: Einleitung"
+  Participant: Julian Kolesik
+  Working: Einleitung zur DA formulieren - 1. Version
+  StartDate: 2020-10-08T15:11+02:00
+  EndDate: 2020-10-08T16:05+2:00
+  EstimatedTime: 3240000
+  BreakTime: 0
+  PercentProgress: 43
+- UserStory: "DA: Mendeley Integration + Einführung"
+  Participant: Julian Kolesik
+  Working: Mendeley in das Overleaf Projekt integrieren + Einführung fürs Team
+  StartDate: 2020-10-08T16:08+02:00
+  EndDate: 2020-10-08T16:35+2:00
+  EstimatedTime: 1620000
+  BreakTime: 0
+  PercentProgress: 100
+- UserStory: State of the Art verfassen
+  Participant: Julian Kolesik
+  Working: Einleitung schreiben
+  StartDate: 2020-10-15T14:11+02:00
+  EndDate: 2020-10-15T15:55+2:00
+  EstimatedTime: 6240000
+  BreakTime: 0
+  PercentProgress: 4
+- UserStory: State of the Art verfassen
+  Participant: Julian Kolesik
+  Working: Wichtige Infos aus Quellen zu MQTT zusammenfassen
+  StartDate: 2020-10-21T19:15+02:00
+  EndDate: 2020-10-21T20:56+2:00
+  EstimatedTime: 6060000
+  BreakTime: 28
+  PercentProgress: 6
+- UserStory: State of the Art verfassen
+  Participant: Julian Kolesik
+  Working: Wichtige Infos aus Quellen zu AMQP zusammenfassen
+  StartDate: 2020-10-22T17:23+02:00
+  EndDate: 2020-10-22T19:21+2:00
+  EstimatedTime: 7080000
+  BreakTime: 11
+  PercentProgress: 9
+- UserStory: State of the Art verfassen
+  Participant: Julian Kolesik
+  Working: Kapitel AMQP und MQTT verfasst
+  StartDate: 2020-10-26T14:01+02:00
+  EndDate: 2020-10-26T18:46+2:00
+  EstimatedTime: 17100000
+  BreakTime: 43
+  PercentProgress: 21
+- UserStory: State of the Art verfassen
+  Participant: Julian Kolesik
+  Working: Wichtige Infos aus Quellen zu CoAP zusammenfassen + Kapitel CoAP schreiben
+  StartDate: 2020-11-07T15:03+02:00
+  EndDate: 2020-11-07T17:53+2:00
+  EstimatedTime: 10200000
+  BreakTime: 25
+  PercentProgress: 36
+- UserStory: State of the Art verfassen
+  Participant: Julian Kolesik
+  Working: Gegenüberstellung verfassen
+  StartDate: 2020-11-11T19:12+02:00
+  EndDate: 2020-11-11T22:41+2:00
+  EstimatedTime: 12540000
+  BreakTime: 31
+  PercentProgress: 51
+- UserStory: State of the Art verfassen
+  Participant: Julian Kolesik
+  Working: Fazit verfassen
+  StartDate: 2020-11-20T14:18+02:00
+  EndDate: 2020-11-20T16:33+2:00
+  EstimatedTime: 8100000
+  BreakTime: 21
+  PercentProgress: 58
+- UserStory: State of the Art verfassen
+  Participant: Julian Kolesik
+  Working: Überprüfung und Korrektur
+  StartDate: 2020-11-24T16:35+02:00
+  EndDate: 2020-11-24T18:54+2:00
+  EstimatedTime: 8340000
+  BreakTime: 37
+  PercentProgress: 66
+- UserStory: State of the Art verfassen
+  Participant: Julian Kolesik
+  Working: Finale Überprüfung und Abgabe der 1. Version
+  StartDate: 2020-11-26T14:12+02:00
+  EndDate: 2020-11-26T15:55+2:00
+  EstimatedTime: 6180000
+  BreakTime: 7
+  PercentProgress: 68
+- UserStory: Raspberry Pi vorbereiten (Libraries installieren etc.)
+  Participant: Julian Kolesik
+  Working: MQTT, AMQP, CoAP installieren
+  StartDate: 2020-11-16T16:20+02:00
+  EndDate: 2020-11-16T18:44+2:00
+  EstimatedTime: 8640000
+  BreakTime: 21
+  PercentProgress: 100
+- UserStory: State of the Art verfassen
+  Participant: Julian Kolesik
+  Working: Libraries ausprobieren und Resultate visualisieren
+  StartDate: 2020-11-08T17:55+02:00
+  EndDate: 2020-11-08T18:59+2:00
+  EstimatedTime: 3840000
+  BreakTime: 25
+  PercentProgress: 42
+- UserStory: State of the Art verfassen
+  Participant: Julian Kolesik
+  Working: Datenakquirierung von REST-Schnittstelle implementieren
+  StartDate: 2020-11-28T12:04+02:00
+  EndDate: 2020-11-28T15:21+2:00
+  EstimatedTime: 11820000
+  BreakTime: 38
+  PercentProgress: 55
+- UserStory: State of the Art verfassen
+  Participant: Julian Kolesik
+  Working: MQTT-Beispiel ausführen -> grundlegende Funktionalität prüfen -> Verbindung zu Endgeräten aufbauen
+  StartDate: 2020-12-02T21:05+02:00
+  EndDate: 2020-12-02T22:31+2:00
+  EstimatedTime: 11820000
+  BreakTime: 0
+  PercentProgress: 64
