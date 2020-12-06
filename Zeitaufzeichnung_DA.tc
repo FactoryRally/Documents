@@ -21,7 +21,7 @@ UserStorys:
   ColorInt: -16744193
 - Name: Datenakquirierung von REST-Schnittstelle testen
   ColorInt: -16744193
-- Name: MQTT-Beispiel ausführen -> grundlegende Funktionalität prüfen -> Verbindung zu Endgeräten aufbauen
+- Name: MQTT-Beispiel
   ColorInt: -16744193
 - Name: MQTT-Topic -> Research
   ColorInt: -16744193
@@ -83,7 +83,7 @@ TableRowsShort:
   StartDate: 2020-10-06T13:20:00.0000000+02:00
   EndDate: 2020-10-06T15:26:00.0000000+02:00
   EstimatedTime: 7560000
-  BreakTime: 5
+  BreakTime: 300000
   PercentProgress: 6
 - UserStory: Raspberry Pi aufsetzen
   Participant: Julian Kolesik
@@ -107,7 +107,7 @@ TableRowsShort:
   StartDate: 2020-10-10T12:04:00.0000000+02:00
   EndDate: 2020-10-10T13:09:00.0000000+02:00
   EstimatedTime: 3900000
-  BreakTime: 7
+  BreakTime: 420000
   PercentProgress: 41
 - UserStory: 'DA: Einleitung'
   Participant: Julian Kolesik
@@ -139,7 +139,7 @@ TableRowsShort:
   StartDate: 2020-10-21T19:15:00.0000000+02:00
   EndDate: 2020-10-21T20:56:00.0000000+02:00
   EstimatedTime: 6060000
-  BreakTime: 28
+  BreakTime: 1320000
   PercentProgress: 6
 - UserStory: State of the Art verfassen
   Participant: Julian Kolesik
@@ -147,7 +147,7 @@ TableRowsShort:
   StartDate: 2020-10-22T17:23:00.0000000+02:00
   EndDate: 2020-10-22T19:21:00.0000000+02:00
   EstimatedTime: 7080000
-  BreakTime: 11
+  BreakTime: 660000
   PercentProgress: 9
 - UserStory: State of the Art verfassen
   Participant: Julian Kolesik
@@ -155,7 +155,7 @@ TableRowsShort:
   StartDate: 2020-10-26T13:01:00.0000000+01:00
   EndDate: 2020-10-26T17:46:00.0000000+01:00
   EstimatedTime: 17100000
-  BreakTime: 43
+  BreakTime: 1980000
   PercentProgress: 21
 - UserStory: State of the Art verfassen
   Participant: Julian Kolesik
@@ -163,7 +163,7 @@ TableRowsShort:
   StartDate: 2020-11-07T14:03:00.0000000+01:00
   EndDate: 2020-11-07T16:53:00.0000000+01:00
   EstimatedTime: 10200000
-  BreakTime: 25
+  BreakTime: 1200000
   PercentProgress: 36
 - UserStory: State of the Art verfassen
   Participant: Julian Kolesik
@@ -171,7 +171,7 @@ TableRowsShort:
   StartDate: 2020-11-11T18:12:00.0000000+01:00
   EndDate: 2020-11-11T21:41:00.0000000+01:00
   EstimatedTime: 12540000
-  BreakTime: 31
+  BreakTime: 1740000
   PercentProgress: 51
 - UserStory: State of the Art verfassen
   Participant: Julian Kolesik
@@ -179,7 +179,7 @@ TableRowsShort:
   StartDate: 2020-11-20T13:18:00.0000000+01:00
   EndDate: 2020-11-20T15:33:00.0000000+01:00
   EstimatedTime: 8100000
-  BreakTime: 21
+  BreakTime: 1080000
   PercentProgress: 58
 - UserStory: State of the Art verfassen
   Participant: Julian Kolesik
@@ -187,7 +187,7 @@ TableRowsShort:
   StartDate: 2020-11-24T15:35:00.0000000+01:00
   EndDate: 2020-11-24T17:54:00.0000000+01:00
   EstimatedTime: 8340000
-  BreakTime: 37
+  BreakTime: 1260000
   PercentProgress: 66
 - UserStory: State of the Art verfassen
   Participant: Julian Kolesik
@@ -195,7 +195,7 @@ TableRowsShort:
   StartDate: 2020-11-26T13:12:00.0000000+01:00
   EndDate: 2020-11-26T14:55:00.0000000+01:00
   EstimatedTime: 6180000
-  BreakTime: 7
+  BreakTime: 420000
   PercentProgress: 68
 - UserStory: State of the Art verfassen
   Participant: Julian Kolesik
@@ -203,17 +203,17 @@ TableRowsShort:
   StartDate: 2020-11-08T16:55:00.0000000+01:00
   EndDate: 2020-11-08T17:59:00.0000000+01:00
   EstimatedTime: 3840000
-  BreakTime: 25
+  BreakTime: 900000
   PercentProgress: 42
-- UserStory: State of the Art verfassen
+- UserStory: Datenakquirierung von REST-Schnittstelle implementieren
   Participant: Julian Kolesik
-  Working: Datenakquirierung von REST-Schnittstelle implementieren
+  Working: Grundlegendes File und Abfrage implementiert
   StartDate: 2020-11-28T11:04:00.0000000+01:00
   EndDate: 2020-11-28T14:21:00.0000000+01:00
   EstimatedTime: 11820000
-  BreakTime: 38
+  BreakTime: 1680000
   PercentProgress: 55
-- UserStory: State of the Art verfassen
+- UserStory: MQTT-Beispiel
   Participant: Julian Kolesik
   Working: MQTT-Beispiel ausführen -> grundlegende Funktionalität prüfen -> Verbindung zu Endgeräten aufbauen
   StartDate: 2020-12-02T20:05:00.0000000+01:00
@@ -227,7 +227,7 @@ TableRowsShort:
   StartDate: 2020-11-16T15:20:00.0000000+01:00
   EndDate: 2020-11-16T17:44:00.0000000+01:00
   EstimatedTime: 8640000
-  BreakTime: 21
+  BreakTime: 1260000
   PercentProgress: 100
 - UserStory: Website
   Participant: Tobias Schrottwieser
