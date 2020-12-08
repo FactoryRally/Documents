@@ -242,8 +242,8 @@ TableRowsShort:
 - UserStory: Social Media Accounts
   Participant: Tobias Schrottwieser
   Working: Erste Bestückung der Beschreibung und CO.
-  StartDate: 2020-12-06T15:03:33.5278641+01:00
-  EndDate: 2020-12-06T15:03:34.4251187+01:00
+  StartDate: 2020-09-18T15:23:33.5278641+01:00
+  EndDate: 2020-09-18T20:03:34.4251187+01:00
   EstimatedTime: 21600000
   BreakTime: 56363
   PercentProgress: 75
@@ -322,16 +322,16 @@ TableRowsShort:
 - UserStory: Social Media Accounts
   Participant: Tobias Schrottwieser
   Working: 'Logo Erstellung '
-  StartDate: 2020-12-06T15:13:06.5043406+01:00
-  EndDate: 2020-12-06T15:13:07.2372726+01:00
+  StartDate: 2020-09-17T16:55:06.5043406+01:00
+  EndDate: 2020-09-17T18:47:07.2372726+01:00
   EstimatedTime: 7200000
   BreakTime: 403754
   PercentProgress: 100
 - UserStory: Social Media Accounts
   Participant: Tobias Schrottwieser
   Working: Schriftzug Erstellung
-  StartDate: 2020-12-06T15:13:36.6504589+01:00
-  EndDate: 2020-12-06T15:13:37.2204137+01:00
+  StartDate: 2020-10-19T14:17:34.6504589+01:00
+  EndDate: 2020-10-19T18:13:57.2204137+01:00
   EstimatedTime: 10800000
   BreakTime: 29414
   PercentProgress: 100
