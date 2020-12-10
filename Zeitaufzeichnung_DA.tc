@@ -5,6 +5,8 @@ UserStorys:
   ColorInt: -8323328
 - Name: Unity Game
   ColorInt: -16744193
+- Name: Spiele Logik / API
+  ColorInt: -8323328
 Participants:
 - Kalian Danzer
 - Julian Kolesik
@@ -35,3 +37,11 @@ TableRowsShort:
   EstimatedTime: 18000000
   BreakTime: 3372140
   PercentProgress: 2
+- UserStory: Spiele Logik / API
+  Participant: Nils Brugger
+  Working: Implementierung des Event Systems
+  StartDate: 2020-09-23T11:23:08.0607343+02:00
+  EndDate: 2020-09-23T16:41:32.4524401+02:00
+  EstimatedTime: 11700000
+  BreakTime: 0
+  PercentProgress: 0
