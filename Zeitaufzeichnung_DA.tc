@@ -444,7 +444,7 @@ TableRowsShort:
 - UserStory: SotA verfassen
   Participant: Nils Brugger
   Working: Schreiben der Basis (v1)
-  StartDate: 2020-10-23T17:0+01:00
+  StartDate: 2020-10-23T17:00+01:00
   EndDate: 2020-10-23T18:22+01:00
   EstimatedTime: 21600000
   BreakTime: 318766
