@@ -433,3 +433,27 @@ TableRowsShort:
   EstimatedTime: 21600000
   BreakTime: 318766
   PercentProgress: 95
+- UserStory: SotA verfassen
+  Participant: Nils Brugger
+  Working: Schreiben der Basis (v1)
+  StartDate: 2020-10-5T12:21+01:00
+  EndDate: 2020-10-5T17:12+01:00
+  EstimatedTime: 21600000
+  BreakTime: 318766
+  PercentProgress: 95
+- UserStory: SotA verfassen
+  Participant: Nils Brugger
+  Working: Schreiben der Basis (v1)
+  StartDate: 2020-10-23T17:0+01:00
+  EndDate: 2020-10-23T18:22+01:00
+  EstimatedTime: 21600000
+  BreakTime: 318766
+  PercentProgress: 95
+- UserStory: SotA verfassen
+  Participant: Nils Brugger
+  Working: Komplettes neuschreiben (v1)
+  StartDate: 2020-11-9T18:07+01:00
+  EndDate: 2020-11-9T21:36+01:00
+  EstimatedTime: 21600000
+  BreakTime: 318766
+  PercentProgress: 95
