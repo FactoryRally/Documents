@@ -252,8 +252,8 @@ TableRowsShort:
 - UserStory: Social Media Accounts
   Participant: Tobias Schrottwieser
   Working: Erste Bestückung der Beschreibung und CO.
-  StartDate: 2020-09-18T15:23:33.5278641+01:00
-  EndDate: 2020-09-18T20:03:34.4251187+01:00
+  StartDate: 2020-09-18T16:23:33.5278641+02:00
+  EndDate: 2020-09-18T21:03:34.4251187+02:00
   EstimatedTime: 21600000
   BreakTime: 56363
   PercentProgress: 75
@@ -332,16 +332,16 @@ TableRowsShort:
 - UserStory: Social Media Accounts
   Participant: Tobias Schrottwieser
   Working: 'Logo Erstellung '
-  StartDate: 2020-09-17T16:55:06.5043406+01:00
-  EndDate: 2020-09-17T18:47:07.2372726+01:00
+  StartDate: 2020-09-17T17:55:06.5043406+02:00
+  EndDate: 2020-09-17T19:47:07.2372726+02:00
   EstimatedTime: 7200000
   BreakTime: 403754
   PercentProgress: 100
 - UserStory: Social Media Accounts
   Participant: Tobias Schrottwieser
   Working: Schriftzug Erstellung
-  StartDate: 2020-10-19T14:17:34.6504589+01:00
-  EndDate: 2020-10-19T18:13:57.2204137+01:00
+  StartDate: 2020-10-19T15:17:34.6504589+02:00
+  EndDate: 2020-10-19T19:13:57.2204137+02:00
   EstimatedTime: 10800000
   BreakTime: 29414
   PercentProgress: 100
@@ -396,64 +396,72 @@ TableRowsShort:
 - UserStory: SotA verfassen
   Participant: Kalian Danzer
   Working: Einführung und Fragestellung
-  StartDate: 2020-11-12T13:10:00+01:00
-  EndDate: 2020-11-12T16:52:00+01:00
+  StartDate: 2020-11-12T13:10+01:00
+  EndDate: 2020-11-12T16:52+01:00
   EstimatedTime: 14400000
   BreakTime: 1464564
   PercentProgress: 20
 - UserStory: SotA verfassen
   Participant: Kalian Danzer
   Working: Regeln 1-5
-  StartDate: 2020-11-16T13:27:00+01:00
-  EndDate: 2020-11-16T16:31:00+01:00
+  StartDate: 2020-11-16T13:27+01:00
+  EndDate: 2020-11-16T16:31+01:00
   EstimatedTime: 14400000
   BreakTime: 0
   PercentProgress: 40
 - UserStory: SotA verfassen
   Participant: Kalian Danzer
   Working: Regeln 6-10
-  StartDate: 2020-11-17T14:01:00+01:00
-  EndDate: 2020-11-17T17:47:00+01:00
+  StartDate: 2020-11-17T14:01+01:00
+  EndDate: 2020-11-17T17:47+01:00
   EstimatedTime: 14400000
   BreakTime: 0
   PercentProgress: 60
 - UserStory: SotA verfassen
   Participant: Kalian Danzer
   Working: Messmethoden
-  StartDate: 2020-11-19T13:31:00+01:00
-  EndDate: 2020-11-19T17:51:00+01:00
+  StartDate: 2020-11-19T13:31+01:00
+  EndDate: 2020-11-19T17:51+01:00
   EstimatedTime: 21600000
   BreakTime: 8766
   PercentProgress: 80
 - UserStory: SotA verfassen
   Participant: Kalian Danzer
   Working: Fazit sowie Conlusio
-  StartDate: 2020-11-20T12:21:00+01:00
-  EndDate: 2020-11-20T18:21:00+01:00
+  StartDate: 2020-11-20T12:21+01:00
+  EndDate: 2020-11-20T18:21+01:00
   EstimatedTime: 21600000
   BreakTime: 318766
   PercentProgress: 95
 - UserStory: SotA verfassen
   Participant: Nils Brugger
-  Working: 'Schreiben der Basis (v1)'
-  StartDate: 2020-10-5T12:21:00+01:00
-  EndDate: 2020-10-5T17:12:00+01:00
+  Working: Schreiben der Basis (v1)
+  StartDate: 2020-10-5T12:21+01:00
+  EndDate: 2020-10-5T17:12+01:00
   EstimatedTime: 21600000
   BreakTime: 318766
   PercentProgress: 95
 - UserStory: SotA verfassen
   Participant: Nils Brugger
-  Working: 'Schreiben der Basis (v1)'
-  StartDate: 2020-10-23T17:00:00+01:00
-  EndDate: 2020-10-23T18:22:00+01:00
+  Working: Schreiben der Basis (v1)
+  StartDate: 2020-10-23T17:00+01:00
+  EndDate: 2020-10-23T18:22+01:00
   EstimatedTime: 21600000
   BreakTime: 318766
   PercentProgress: 95
 - UserStory: SotA verfassen
   Participant: Nils Brugger
-  Working: 'Komplettes neuschreiben (v1)'
-  StartDate: 2020-11-9T18:07:00+01:00
-  EndDate: 2020-11-9T21:36:00+01:00
+  Working: Komplettes neuschreiben (v1)
+  StartDate: 2020-11-9T18:07+01:00
+  EndDate: 2020-11-9T21:36+01:00
   EstimatedTime: 21600000
   BreakTime: 318766
   PercentProgress: 95
+- UserStory: SotA verfassen
+  Participant: Nils Brugger
+  Working: 'Komplettes neuschreiben #DANKEBORKO'
+  StartDate: 2020-12-10T14:49:11.8378050+01:00
+  EndDate: 2020-12-10T16:45:02.9084040+01:00
+  EstimatedTime: 7200000
+  BreakTime: 338935
+  PercentProgress: 0
