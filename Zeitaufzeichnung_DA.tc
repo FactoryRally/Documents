@@ -467,3 +467,11 @@ TableRowsShort:
   EstimatedTime: 7200000
   BreakTime: 0
   PercentProgress: 2
+- UserStory: Unity Game
+  Participant: Kalian Danzer
+  Working: Inputmanager überarbeiten
+  StartDate: 2020-12-29T16:11:21.5345240+01:00
+  EndDate: 2020-12-29T18:46:02.2382428+01:00
+  EstimatedTime: 9000000
+  BreakTime: 1172337
+  PercentProgress: 6
