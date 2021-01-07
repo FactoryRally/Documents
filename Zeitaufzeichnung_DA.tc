@@ -31,6 +31,8 @@ UserStorys:
   ColorInt: -16744448
 - Name: Unity Restverknüpfung
   ColorInt: -16711681
+- Name: Umplanung
+  ColorInt: -8388353
 Participants:
 - Kalian Danzer
 - Julian Kolesik
@@ -477,3 +479,11 @@ TableRowsShort:
   EstimatedTime: 60000
   BreakTime: 14756
   PercentProgress: 0
+- UserStory: Umplanung
+  Participant: Tobias Schrottwieser
+  Working: Überdenkung der Bildaufnahmen
+  StartDate: 2020-12-21T14:29:52.8229994+01:00
+  EndDate: 2020-12-21T19:14:59.1249137+01:00
+  EstimatedTime: 14400000
+  BreakTime: 0
+  PercentProgress: 100
