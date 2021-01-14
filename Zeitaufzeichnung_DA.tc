@@ -560,48 +560,72 @@ TableRowsShort:
 - UserStory: Unity UI
   Participant: Kalian Danzer
   Working: Planung der Menüs
-  StartDate: 2021-01-8T15:16:07.3161705+01:00
-  EndDate: 2021-01-8T18:36:18.8668935+01:00
+  StartDate: 2021-01-08T15:16:07.3161705+01:00
+  EndDate: 2021-01-08T18:36:18.8668935+01:00
   EstimatedTime: 14400000
   BreakTime: 0
   PercentProgress: 8
 - UserStory: Unity UI
   Participant: Tobias Schrottwieser
   Working: Planung der Menüs
-  StartDate: 2021-01-8T15:20:07+01:00
-  EndDate: 2021-01-8T18:36:18+01:00
+  StartDate: 2021-01-08T15:20:07.0000000+01:00
+  EndDate: 2021-01-08T18:36:18.0000000+01:00
   EstimatedTime: 14400000
   BreakTime: 0
   PercentProgress: 8
 - UserStory: Unity UI
   Participant: Kalian Danzer
   Working: Hauptmenü Überarbeiten
-  StartDate: 2021-01-9T14:10:00+01:00
-  EndDate: 2021-01-9T18:45:00+01:00
+  StartDate: 2021-01-09T14:10:00.0000000+01:00
+  EndDate: 2021-01-09T18:45:00.0000000+01:00
   EstimatedTime: 14400000
   BreakTime: 0
   PercentProgress: 11
 - UserStory: Unity UI
   Participant: Tobias Schrottwieser
   Working: Feedback zur Menüüberarbeitung
-  StartDate: 2021-01-9T14:10:00+01:00
-  EndDate: 2021-01-9T18:45:00+01:00
+  StartDate: 2021-01-09T14:10:00.0000000+01:00
+  EndDate: 2021-01-09T18:45:00.0000000+01:00
   EstimatedTime: 14400000
   BreakTime: 0
   PercentProgress: 11
 - UserStory: Unity UI
   Participant: Kalian Danzer
   Working: Hauptmenü Überarbeiten - 2
-  StartDate: 2021-01-11T14:30:00+01:00
-  EndDate: 2021-01-11T18:30:00+01:00
+  StartDate: 2021-01-11T14:30:00.0000000+01:00
+  EndDate: 2021-01-11T18:30:00.0000000+01:00
   EstimatedTime: 16200000
   BreakTime: 0
   PercentProgress: 14
 - UserStory: Unity UI
   Participant: Tobias Schrottwieser
   Working: Feedback zur Menüüberarbeitung
-  StartDate: 2021-01-11T15:00:00+01:00
-  EndDate: 2021-01-11T18:30:00+01:00
+  StartDate: 2021-01-11T15:00:00.0000000+01:00
+  EndDate: 2021-01-11T18:30:00.0000000+01:00
   EstimatedTime: 14400000
   BreakTime: 0
   PercentProgress: 14
+- UserStory: MQTT Implementierung
+  Participant: Julian Kolesik
+  Working: Message Broker am Raspberry Pi installieren
+  StartDate: 2021-01-10T10:59:55.1249137+01:00
+  EndDate: 2021-01-10T11:30:54.8269994+01:00
+  EstimatedTime: 1620000
+  BreakTime: 0
+  PercentProgress: 36
+- UserStory: MQTT Implementierung
+  Participant: Julian Kolesik
+  Working: MQTT on_message Methode entsprechend erweitern (Subscriber)
+  StartDate: 2021-01-11T12:15:00.0000000+01:00
+  EndDate: 2021-01-11T16:30:00.0000000+01:00
+  EstimatedTime: 15300000
+  BreakTime: 900000
+  PercentProgress: 41
+- UserStory: MQTT-Implementierung testen
+  Participant: Julian Kolesik
+  Working: Verbindung zw. Publisher und Subscriber testen + Empfang von Nachrichten nach Updates zu Subscriber
+  StartDate: 2021-01-12T15:30:00.0000000+01:00
+  EndDate: 2021-01-11T16:45:00.0000000+01:00
+  EstimatedTime: 4500000
+  BreakTime: 0
+  PercentProgress: 41
