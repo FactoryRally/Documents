@@ -495,7 +495,7 @@ TableRowsShort:
   PercentProgress: 100
 - UserStory: MQTT Implementierung
   Participant: Julian Kolesik
-  Working: MQTT Publisher (grundlegende Methoden aus Paho-MQTT)implementieren 
+  Working: MQTT Publisher (grundlegende Methoden aus Paho-MQTT)implementieren
   StartDate: 2020-12-13T11:30:21.8229994+01:00
   EndDate: 2020-12-13T16:05:15.1249137+01:00
   EstimatedTime: 16200000
@@ -557,6 +557,51 @@ TableRowsShort:
   EstimatedTime: 5400000
   BreakTime: 0
   PercentProgress: 34
-
-
-
+- UserStory: Unity UI
+  Participant: Kalian Danzer
+  Working: Planung der Menüs
+  StartDate: 2021-01-8T15:16:07.3161705+01:00
+  EndDate: 2021-01-8T18:36:18.8668935+01:00
+  EstimatedTime: 14400000
+  BreakTime: 0
+  PercentProgress: 8
+- UserStory: Unity UI
+  Participant: Tobias Schrottwieser
+  Working: Planung der Menüs
+  StartDate: 2021-01-8T15:20:07+01:00
+  EndDate: 2021-01-8T18:36:18+01:00
+  EstimatedTime: 14400000
+  BreakTime: 0
+  PercentProgress: 8
+- UserStory: Unity UI
+  Participant: Kalian Danzer
+  Working: Hauptmenü Überarbeiten
+  StartDate: 2021-01-9T14:10:00+01:00
+  EndDate: 2021-01-9T18:45:00+01:00
+  EstimatedTime: 14400000
+  BreakTime: 0
+  PercentProgress: 11
+- UserStory: Unity UI
+  Participant: Tobias Schrottwieser
+  Working: Feedback zur Menüüberarbeitung
+  StartDate: 2021-01-9T14:10:00+01:00
+  EndDate: 2021-01-9T18:45:00+01:00
+  EstimatedTime: 14400000
+  BreakTime: 0
+  PercentProgress: 11
+- UserStory: Unity UI
+  Participant: Kalian Danzer
+  Working: Hauptmenü Überarbeiten - 2
+  StartDate: 2021-01-11T14:30:00+01:00
+  EndDate: 2021-01-11T18:30:00+01:00
+  EstimatedTime: 16200000
+  BreakTime: 0
+  PercentProgress: 14
+- UserStory: Unity UI
+  Participant: Tobias Schrottwieser
+  Working: Feedback zur Menüüberarbeitung
+  StartDate: 2021-01-11T15:00:00+01:00
+  EndDate: 2021-01-11T18:30:00+01:00
+  EstimatedTime: 14400000
+  BreakTime: 0
+  PercentProgress: 14
