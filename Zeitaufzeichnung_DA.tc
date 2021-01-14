@@ -625,7 +625,7 @@ TableRowsShort:
   Participant: Julian Kolesik
   Working: Verbindung zw. Publisher und Subscriber testen + Empfang von Nachrichten nach Updates zu Subscriber
   StartDate: 2021-01-12T15:30:00.0000000+01:00
-  EndDate: 2021-01-11T16:45:00.0000000+01:00
+  EndDate: 2021-01-12T16:45:00.0000000+01:00
   EstimatedTime: 4500000
   BreakTime: 0
   PercentProgress: 41
