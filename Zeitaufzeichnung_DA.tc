@@ -469,6 +469,14 @@ TableRowsShort:
   EstimatedTime: 21600000
   BreakTime: 318766
   PercentProgress: 95
+- UserStory: SotA verfassen
+  Participant: Nils Brugger
+  Working: 'Komplettes neuschreiben #DANKEBORKO'
+  StartDate: 2020-12-10T14:49:11.8378050+01:00
+  EndDate: 2020-12-10T16:45:02.9084040+01:00
+  EstimatedTime: 7200000
+  BreakTime: 338935
+  PercentProgress: 0
 - UserStory: Motivation
   Participant: Nils Brugger
   Working: Suchen nach Motivation
