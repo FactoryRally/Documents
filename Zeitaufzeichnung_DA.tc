@@ -643,7 +643,7 @@ TableRowsShort:
   StartDate: 2021-01-21T21:05:54.2364514+01:00
   EndDate: 2021-01-21T21:52:29.5982594+01:00
   EstimatedTime: 5400000
-  BreakTime: 4138448
+  BreakTime: 41384
   PercentProgress: 0
 - UserStory: Spiele Logik / API
   Participant: Nils Brugger
