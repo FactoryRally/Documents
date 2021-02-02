@@ -683,5 +683,29 @@ TableRowsShort:
   StartDate: 2021-01-26T09:47:22.7773416+01:00
   EndDate: 2021-01-26T12:54:33.4714814+01:00
   EstimatedTime: 9000000
-  BreakTime: 66966034
+  BreakTime: 0
+  PercentProgress: 0
+- UserStory: Spiele Logik / API
+  Participant: Nils Brugger
+  Working: 'Issue #19'
+  StartDate: 2021-01-30T15:27:33.4209357+01:00
+  EndDate: 2021-01-30T17:34:02.2059604+01:00
+  EstimatedTime: 7200000
+  BreakTime: 0
+  PercentProgress: 0
+- UserStory: Spiele Logik / API
+  Participant: Nils Brugger
+  Working: Bugfixes & upgrade implementation
+  StartDate: 2021-01-31T15:36:06.5290925+01:00
+  EndDate: 2021-01-31T17:21:21.8918309+01:00
+  EstimatedTime: 7200000
+  BreakTime: 0
+  PercentProgress: 0
+- UserStory: Spiele Logik / API
+  Participant: Nils Brugger
+  Working: upgrade implementation
+  StartDate: 2021-02-01T19:38:13.7733615+01:00
+  EndDate: 2021-02-01T22:36:18.7736928+01:00
+  EstimatedTime: 7200000
+  BreakTime: 0
   PercentProgress: 0
