@@ -39,6 +39,8 @@ UserStorys:
   ColorInt: -16711681
 - Name: Umplanung
   ColorInt: -8388353
+- Name: Social Media Contents
+  ColorInt: -65536
 Participants:
 - Kalian Danzer
 - Julian Kolesik
@@ -637,6 +639,7 @@ TableRowsShort:
   EstimatedTime: 4500000
   BreakTime: 0
   PercentProgress: 41
+<<<<<<< Updated upstream
 - UserStory: SotA verfassen
   Participant: Nils Brugger
   Working: Fertigstellen von 10 auf 100%
@@ -757,3 +760,13 @@ TableRowsShort:
   EstimatedTime: 10800000
   BreakTime: 15483721
   PercentProgress: 0
+=======
+- UserStory: Social Media Contents
+  Participant: Tobias Schrottwieser
+  Working: 'SM Account wird erstellt '
+  StartDate: 2021-02-10T19:45:18.3578303+01:00
+  EndDate: 2021-02-10T20:28:23.6541145+01:00
+  EstimatedTime: 0
+  BreakTime: 0
+  PercentProgress: 0
+>>>>>>> Stashed changes
