@@ -39,11 +39,14 @@ UserStorys:
   ColorInt: -16711681
 - Name: Umplanung
   ColorInt: -8388353
+- Name: Social Media Content
+  ColorInt: -65536
 Participants:
 - Kalian Danzer
 - Julian Kolesik
 - Nils Brugger
 - Tobias Schrottwieser
+- ''
 TableRowsShort:
 - UserStory: Social Media Accounts
   Participant: Tobias Schrottwieser
@@ -469,14 +472,6 @@ TableRowsShort:
   EstimatedTime: 21600000
   BreakTime: 318766
   PercentProgress: 95
-- UserStory: SotA verfassen
-  Participant: Nils Brugger
-  Working: 'Komplettes neuschreiben #DANKEBORKO'
-  StartDate: 2020-12-10T14:49:11.8378050+01:00
-  EndDate: 2020-12-10T16:45:02.9084040+01:00
-  EstimatedTime: 7200000
-  BreakTime: 338935
-  PercentProgress: 0
 - UserStory: Motivation
   Participant: Nils Brugger
   Working: Suchen nach Motivation
@@ -633,41 +628,26 @@ TableRowsShort:
   Participant: Julian Kolesik
   Working: Verbindung zw. Publisher und Subscriber testen + Empfang von Nachrichten nach Updates zu Subscriber
   StartDate: 2021-01-12T15:30:00.0000000+01:00
-  EndDate: 2021-01-12T16:45:00.0000000+01:00
+  EndDate: 2021-01-11T16:45:00.0000000+01:00
   EstimatedTime: 4500000
   BreakTime: 0
   PercentProgress: 41
-- UserStory: SotA verfassen
-  Participant: Nils Brugger
-  Working: Fertigstellen von 10 auf 100%
-  StartDate: 2021-01-21T13:40:01.6143853+01:00
-  EndDate: 2021-01-21T19:56:55.7893963+01:00
-  EstimatedTime: 21600000
-  BreakTime: 319221
-  PercentProgress: 0
-- UserStory: Spiele Logik / API
-  Participant: Nils Brugger
-  Working: Zurechtfinden in der Umgebung und an den GH issues arbeiten
-  StartDate: 2021-01-21T21:05:54.2364514+01:00
-  EndDate: 2021-01-21T21:52:29.5982594+01:00
-  EstimatedTime: 5400000
-  BreakTime: 4138448
-  PercentProgress: 0
-- UserStory: Spiele Logik / API
-  Participant: Nils Brugger
-  Working: GH issues abarbeiten (Player Handling & joining)
-  StartDate: 2021-01-21T21:53:11.6915515+01:00
-  EndDate: 2021-01-22T04:27:21.7441482+01:00
-  EstimatedTime: 5400000
-  BreakTime: 17682261
-  PercentProgress: 0
-- UserStory: Spiele Logik / API
-  Participant: Nils Brugger
-  Working: Picking phase
-  StartDate: 2021-01-22T10:01:30.4168541+01:00
-  EndDate: 2021-01-22T11:32:30.9824798+01:00
-  EstimatedTime: 3600000
+- UserStory: Social Media Content
+  Participant: Tobias Schrottwieser
+  Working: 'SM Account wird erstellt '
+  StartDate: 2021-02-10T19:45:18.3578303+01:00
+  EndDate: 2021-02-10T20:28:23.6541145+01:00
+  EstimatedTime: 1900000
   BreakTime: 0
+  PercentProgress: 5
+- UserStory: Social Media Content
+  Participant: Tobias Schrottwieser
+  Working: 'SM Account wird erstellt '
+  StartDate: 2021-02-10T20:29:57.3557816+01:00
+  EndDate: 2021-02-10T22:24:43.1725022+01:00
+  EstimatedTime: 5300000
+  BreakTime: 93702
+  PercentProgress: 13
   PercentProgress: 0
 - UserStory: Spiele Logik / API
   Participant: Nils Brugger
@@ -773,3 +753,4 @@ TableRowsShort:
   EstimatedTime: 3600000
   BreakTime: 634710
   PercentProgress: 0
+
