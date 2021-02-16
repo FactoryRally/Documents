@@ -41,6 +41,8 @@ UserStorys:
   ColorInt: -8388353
 - Name: Social Media Content
   ColorInt: -65536
+- Name: Konzept verfassen
+  ColorInt: -4144960
 Participants:
 - Kalian Danzer
 - Julian Kolesik
@@ -791,6 +793,38 @@ TableRowsShort:
   EstimatedTime: 5300000
   BreakTime: 93702
   PercentProgress: 13
+- UserStory: Unity UI
+  Participant: Kalian Danzer
+  Working: Menü Überarbeiten nach Mockups
+  StartDate: 2021-02-15T20:23:58.6443700+01:00
+  EndDate: 2021-02-15T23:43:26.9964934+01:00
+  EstimatedTime: 7200000
+  BreakTime: 4629387
+  PercentProgress: 20
+- UserStory: Konzept verfassen
+  Participant: Tobias Schrottwieser
+  Working: Grafiken anfertigen und Konzeptschritte erläutern
+  StartDate: 2021-02-15T17:14:14.6859177+01:00
+  EndDate: 2021-02-15T22:39:20.9937951+01:00
+  EstimatedTime: 28800000
+  BreakTime: 0
+  PercentProgress: 90
+- UserStory: Konzept verfassen
+  Participant: Tobias Schrottwieser
+  Working: Konzept verbessern und erweitern
+  StartDate: 2021-02-16T15:14:14.6859177+01:00
+  EndDate: 2021-02-16T18:39:20.9937951+01:00
+  EstimatedTime: 18800000
+  BreakTime: 6619
+  PercentProgress: 95
+- UserStory: Social Media Content
+  Participant: Tobias Schrottwieser
+  Working: Update der Accounts
+  StartDate: 2021-02-16T18:43:27.0695605+01:00
+  EndDate: 2021-02-16T22:46:52.3981092+01:00
+  EstimatedTime: 10800000
+  BreakTime: 876619
+  PercentProgress: 19
 - UserStory: Social Media Content
   Participant: Tobias Schrottwieser
   Working: 'SM Account wird erstellt '
