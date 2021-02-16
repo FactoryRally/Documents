@@ -833,3 +833,11 @@ TableRowsShort:
   EstimatedTime: 1900000
   BreakTime: 0
   PercentProgress: 5
+- UserStory: Unity UI
+  Participant: Kalian Danzer
+  Working: UI Sub Menüs überarbeiten
+  StartDate: 2021-02-16T14:23:54.3863597+01:00
+  EndDate: 2021-02-16T23:58:31.1201195+01:00
+  EstimatedTime: 21600000
+  BreakTime: 9107637
+  PercentProgress: 30
