@@ -650,7 +650,6 @@ TableRowsShort:
   EstimatedTime: 5300000
   BreakTime: 93702
   PercentProgress: 13
-<<<<<<< Updated upstream
 - UserStory: Unity UI
   Participant: Kalian Danzer
   Working: Menü Überarbeiten nach Mockups
@@ -659,7 +658,6 @@ TableRowsShort:
   EstimatedTime: 7200000
   BreakTime: 4629387
   PercentProgress: 20
-=======
 - UserStory: Konzept verfassen
   Participant: Tobias Schrottwieser
   Working: Grafiken anfertigen und Konzeptschritte erläutern
@@ -684,4 +682,3 @@ TableRowsShort:
   EstimatedTime: 10800000
   BreakTime: 876619
   PercentProgress: 19
->>>>>>> Stashed changes
