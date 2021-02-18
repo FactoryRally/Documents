@@ -841,3 +841,19 @@ TableRowsShort:
   EstimatedTime: 21600000
   BreakTime: 9107637
   PercentProgress: 30
+- UserStory: Unity UI
+  Participant: Kalian Danzer
+  Working: UI Submenü "Hosts" hinzufügen
+  StartDate: 2021-02-17T17:25:59.9746426+01:00
+  EndDate: 2021-02-17T18:36:58.9617689+01:00
+  EstimatedTime: 3600000
+  BreakTime: 0
+  PercentProgress: 27
+- UserStory: Konzept verfassen
+  Participant: Kalian Danzer
+  Working: Konzept schreiben
+  StartDate: 2021-02-17T19:42:24.3930770+01:00
+  EndDate: 2021-02-17T23:06:42.0961059+01:00
+  EstimatedTime: 7200000
+  BreakTime: 4307354
+  PercentProgress: 90
