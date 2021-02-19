@@ -64,7 +64,7 @@ TableRowsShort:
   EndDate: 2020-09-18T16:35:19.1144730+02:00
   EstimatedTime: 14400000
   BreakTime: 2167123
-  PercentProgress: 1
+  PercentProgress: 5
 - UserStory: Unity Game
   Participant: Kalian Danzer
   Working: Einfügen der RestApi Schnittstelle und dessen Kommunikation
@@ -72,7 +72,7 @@ TableRowsShort:
   EndDate: 2020-09-21T17:21:30.2734611+02:00
   EstimatedTime: 18000000
   BreakTime: 3372140
-  PercentProgress: 2
+  PercentProgress: 7
 - UserStory: Spiele Logik / API
   Participant: Nils Brugger
   Working: Implementierung des Event Systems
@@ -96,7 +96,7 @@ TableRowsShort:
   EndDate: 2020-09-26T16:39:51.9046294+02:00
   EstimatedTime: 7200000
   BreakTime: 0
-  PercentProgress: 3
+  PercentProgress: 14
 - UserStory: SotA - Referenzen und Quellen
   Participant: Julian Kolesik
   Working: Grundlegende Recherche auf Wikipedia und im Web allgemein
@@ -848,7 +848,7 @@ TableRowsShort:
   EndDate: 2021-02-17T18:36:58.9617689+01:00
   EstimatedTime: 3600000
   BreakTime: 0
-  PercentProgress: 27
+  PercentProgress: 37
 - UserStory: Konzept verfassen
   Participant: Kalian Danzer
   Working: Konzept schreiben
@@ -857,3 +857,35 @@ TableRowsShort:
   EstimatedTime: 7200000
   BreakTime: 4307354
   PercentProgress: 90
+- UserStory: Unity Game
+  Participant: Kalian Danzer
+  Working: Netzwerk Scan fürs finden von Lokalen Lobbys implementieren
+  StartDate: 2021-02-18T14:01:42.7201230+01:00
+  EndDate: 2021-02-18T16:02:43.0532255+01:00
+  EstimatedTime: 3600000
+  BreakTime: 0
+  PercentProgress: 18
+- UserStory: Unity Game
+  Participant: Nils Brugger
+  Working: Netzwerk Scan fürs finden von Lokalen Lobbys implementieren
+  StartDate: 2021-02-18T14:01:42.7201230+01:00
+  EndDate: 2021-02-18T16:02:43.0532255+01:00
+  EstimatedTime: 3600000
+  BreakTime: 0
+  PercentProgress: 18
+- UserStory: Unity Game
+  Participant: Kalian Danzer
+  Working: Netzwerk Scan in Unity umsetzen
+  StartDate: 2021-02-18T18:43:11.5326332+01:00
+  EndDate: 2021-02-19T00:38:35.1569327+01:00
+  EstimatedTime: 9000000
+  BreakTime: 2584120
+  PercentProgress: 21
+- UserStory: Unity Game
+  Participant: Kalian Danzer
+  Working: Backend des Netzwerk Scanners auf Threads umgebaut.
+  StartDate: 2021-02-19T07:53:28.6540077+01:00
+  EndDate: 2021-02-19T09:54:39.1030829+01:00
+  EstimatedTime: 7200000
+  BreakTime: 0
+  PercentProgress: 22
