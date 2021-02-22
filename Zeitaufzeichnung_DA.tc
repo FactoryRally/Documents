@@ -889,3 +889,11 @@ TableRowsShort:
   EstimatedTime: 7200000
   BreakTime: 0
   PercentProgress: 22
+- UserStory: Unity UI
+  Participant: Kalian Danzer
+  Working: UI Backend implementieren und Brainstormen
+  StartDate: 2021-02-22T20:28:51.4254569+01:00
+  EndDate: 2021-02-23T00:11:39.6586324+01:00
+  EstimatedTime: 10800000
+  BreakTime: 0
+  PercentProgress: 40
