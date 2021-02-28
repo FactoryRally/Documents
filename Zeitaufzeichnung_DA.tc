@@ -899,14 +899,6 @@ TableRowsShort:
   EstimatedTime: 10800000
   BreakTime: 0
   PercentProgress: 40
-- UserStory: Social Media Content
-  Participant: Tobias Schrottwieser
-  Working: Neues Bildmaterial von den Spieleinhalten wird aufgenommen
-  StartDate: 2021-02-23T19:37:58.0651011+01:00
-  EndDate: 2021-02-23T22:26:42.9094491+01:00
-  EstimatedTime: 10800000
-  BreakTime: 2053
-  PercentProgress: 31
 - UserStory: Unity UI
   Participant: Kalian Danzer
   Working: Implement Menu Backend Functions
@@ -1011,3 +1003,19 @@ TableRowsShort:
   EstimatedTime: 10800000
   BreakTime: 0
   PercentProgress: 65
+- UserStory: Social Media Content
+  Participant: Tobias Schrottwieser
+  Working: Neues Bildmaterial von den Spieleinhalten wird aufgenommen
+  StartDate: 2021-02-23T19:37:58.0651011+01:00
+  EndDate: 2021-02-23T22:26:42.9094491+01:00
+  EstimatedTime: 10800000
+  BreakTime: 2053
+  PercentProgress: 23
+- UserStory: Social Media Content
+  Participant: Tobias Schrottwieser
+  Working: Bildbearbeitung
+  StartDate: 2021-02-28T17:49:56.6243088+01:00
+  EndDate: 2021-02-28T21:20:09.0443358+01:00
+  EstimatedTime: 14400000
+  BreakTime: 1753
+  PercentProgress: 27
