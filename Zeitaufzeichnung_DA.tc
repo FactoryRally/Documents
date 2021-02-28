@@ -43,6 +43,8 @@ UserStorys:
   ColorInt: -65536
 - Name: Konzept verfassen
   ColorInt: -4144960
+- Name: Netzwerkscanner
+  ColorInt: -200
 Participants:
 - Kalian Danzer
 - Julian Kolesik
@@ -64,7 +66,7 @@ TableRowsShort:
   EndDate: 2020-09-18T16:35:19.1144730+02:00
   EstimatedTime: 14400000
   BreakTime: 2167123
-  PercentProgress: 1
+  PercentProgress: 5
 - UserStory: Unity Game
   Participant: Kalian Danzer
   Working: Einfügen der RestApi Schnittstelle und dessen Kommunikation
@@ -72,7 +74,7 @@ TableRowsShort:
   EndDate: 2020-09-21T17:21:30.2734611+02:00
   EstimatedTime: 18000000
   BreakTime: 3372140
-  PercentProgress: 2
+  PercentProgress: 7
 - UserStory: Spiele Logik / API
   Participant: Nils Brugger
   Working: Implementierung des Event Systems
@@ -96,7 +98,7 @@ TableRowsShort:
   EndDate: 2020-09-26T16:39:51.9046294+02:00
   EstimatedTime: 7200000
   BreakTime: 0
-  PercentProgress: 3
+  PercentProgress: 14
 - UserStory: SotA - Referenzen und Quellen
   Participant: Julian Kolesik
   Working: Grundlegende Recherche auf Wikipedia und im Web allgemein
@@ -833,6 +835,54 @@ TableRowsShort:
   EstimatedTime: 1900000
   BreakTime: 0
   PercentProgress: 5
+- UserStory: Unity UI
+  Participant: Kalian Danzer
+  Working: UI Sub Menüs überarbeiten
+  StartDate: 2021-02-16T14:23:54.3863597+01:00
+  EndDate: 2021-02-16T23:58:31.1201195+01:00
+  EstimatedTime: 21600000
+  BreakTime: 9107637
+  PercentProgress: 30
+- UserStory: Unity UI
+  Participant: Kalian Danzer
+  Working: UI Submenü "Hosts" hinzufügen
+  StartDate: 2021-02-17T17:25:59.9746426+01:00
+  EndDate: 2021-02-17T18:36:58.9617689+01:00
+  EstimatedTime: 3600000
+  BreakTime: 0
+  PercentProgress: 37
+- UserStory: Konzept verfassen
+  Participant: Kalian Danzer
+  Working: Konzept schreiben
+  StartDate: 2021-02-17T19:42:24.3930770+01:00
+  EndDate: 2021-02-17T23:06:42.0961059+01:00
+  EstimatedTime: 7200000
+  BreakTime: 4307354
+  PercentProgress: 90
+- UserStory: Unity Game
+  Participant: Kalian Danzer
+  Working: Netzwerk Scan fürs finden von Lokalen Lobbys implementieren
+  StartDate: 2021-02-18T14:01:42.7201230+01:00
+  EndDate: 2021-02-18T16:02:43.0532255+01:00
+  EstimatedTime: 3600000
+  BreakTime: 0
+  PercentProgress: 18
+- UserStory: Unity Game
+  Participant: Nils Brugger
+  Working: Netzwerk Scan fürs finden von Lokalen Lobbys implementieren
+  StartDate: 2021-02-18T14:01:42.7201230+01:00
+  EndDate: 2021-02-18T16:02:43.0532255+01:00
+  EstimatedTime: 3600000
+  BreakTime: 0
+  PercentProgress: 18
+- UserStory: Unity Game
+  Participant: Kalian Danzer
+  Working: Netzwerk Scan in Unity umsetzen
+  StartDate: 2021-02-18T18:43:11.5326332+01:00
+  EndDate: 2021-02-19T00:38:35.1569327+01:00
+  EstimatedTime: 9000000
+  BreakTime: 2584120
+  PercentProgress: 21
 - UserStory: Spiele Logik / API
   Participant: Nils Brugger
   Working: Spielezyklus implementieren
@@ -843,9 +893,121 @@ TableRowsShort:
   PercentProgress: 0
 - UserStory: Unity UI
   Participant: Kalian Danzer
+  Working: UI Backend implementieren und Brainstormen
+  StartDate: 2021-02-22T20:28:51.4254569+01:00
+  EndDate: 2021-02-23T00:11:39.6586324+01:00
+  EstimatedTime: 10800000
+  BreakTime: 0
+  PercentProgress: 40
+- UserStory: Social Media Content
+  Participant: Tobias Schrottwieser
+  Working: Neues Bildmaterial von den Spieleinhalten wird aufgenommen
+  StartDate: 2021-02-23T19:37:58.0651011+01:00
+  EndDate: 2021-02-23T22:26:42.9094491+01:00
+  EstimatedTime: 10800000
+  BreakTime: 2053
+  PercentProgress: 31
+- UserStory: Unity UI
+  Participant: Kalian Danzer
   Working: Implement Menu Backend Functions
-  StartDate: 2021-02-25T21:29:34+01:00
-  EndDate: 2021-02-26T00:47:31+01:00
+  StartDate: 2021-02-23T20:49:51.2531406+01:00
+  EndDate: 2021-02-23T23:52:30.5869226+01:00
+  EstimatedTime: 10800000
+  BreakTime: 0
+  PercentProgress: 50
+- UserStory: Konzept verfassen
+  Participant: Julian Kolesik
+  Working: Subkapitel 1-3
+  StartDate: 2021-02-06T13:28:25.0000000+01:00
+  EndDate: 2021-02-06T21:11:03.0000000+01:00
+  EstimatedTime: 27758000
+  BreakTime: 1980000
+  PercentProgress: 45
+- UserStory: Konzept verfassen
+  Participant: Julian Kolesik
+  Working: Subkapitel 3-5
+  StartDate: 2021-02-07T14:33:12.0000000+01:00
+  EndDate: 2021-02-07T18:12:01.0000000+01:00
+  EstimatedTime: 13129000
+  BreakTime: 0
+  PercentProgress: 90
+- UserStory: Datenakquirierung von REST-Schnittstelle
+  Participant: Julian Kolesik
+  Working: Abstrahierung und Resource-Handler
+  StartDate: 2021-02-08T13:43:55.0000000+01:00
+  EndDate: 2021-02-08T18:35:15.0000000+01:00
+  EstimatedTime: 17480000
+  BreakTime: 0
+  PercentProgress: 33
+- UserStory: Datenakquirierung von REST-Schnittstelle
+  Participant: Julian Kolesik
+  Working: ConnectionHandler und ID-Mapping
+  StartDate: 2021-02-09T12:48:15.0000000+01:00
+  EndDate: 2021-02-09T19:16:54.0000000+01:00
+  EstimatedTime: 23319000
+  BreakTime: 1239000
+  PercentProgress: 58
+- UserStory: MQTT-Implementierung
+  Participant: Julian Kolesik
+  Working: Verbindung zwischen MQTT und REST-Client hergestellt und Nachrichten richtig getimt
+  StartDate: 2021-02-12T14:10:39.0000000+01:00
+  EndDate: 2021-02-12T21:07:04.0000000+01:00
+  EstimatedTime: 24985000
+  BreakTime: 1525000
+  PercentProgress: 61
+- UserStory: Netzwerkscanner
+  Participant: Julian Kolesik
+  Working: Richtige IP-Adresse erhalten
+  StartDate: 2021-02-13T10:05:19.0000000+01:00
+  EndDate: 2021-02-13T14:12:21.0000000+01:00
+  EstimatedTime: 14822000
+  BreakTime: 0
+  PercentProgress: 43
+- UserStory: Netzwerkscanner
+  Participant: Julian Kolesik
+  Working: 24er Subnetz richtig scannbar
+  StartDate: 2021-02-14T16:28:05.0000000+01:00
+  EndDate: 2021-02-14T23:31:28.0000000+01:00
+  EstimatedTime: 25403000
+  BreakTime: 2003000
+  PercentProgress: 79
+- UserStory: Netzwerkscanner
+  Participant: Julian Kolesik
+  Working: Listenausgabe als Return
+  StartDate: 2021-02-15T13:51:16.0000000+01:00
+  EndDate: 2021-02-15T15:59:55.0000000+01:00
+  EstimatedTime: 7720000
+  BreakTime: 0
+  PercentProgress: 91
+- UserStory: Datenakquirierung von REST-Schnittstelle testen
+  Participant: Julian Kolesik
+  Working: Tests hinsichtlich Abstrahierung, Resources, Resourcehandler, Errorhandling
+  StartDate: 2021-02-15T17:22:42.0000000+01:00
+  EndDate: 2021-02-15T20:51:30.0000000+01:00
+  EstimatedTime: 12553000
+  BreakTime: 0
+  PercentProgress: 66
+- UserStory: Datenakquirierung von REST-Schnittstelle testen
+  Participant: Julian Kolesik
+  Working: Tests hinsichtlich ConnectionHandler, Verhalten von Fake-Playern
+  StartDate: 2021-02-16T14:09:02.0000000+01:00
+  EndDate: 2021-02-16T16:37:44.0000000+01:00
+  EstimatedTime: 8922000
+  BreakTime: 0
+  PercentProgress: 75
+- UserStory: Datenakquirierung von REST-Schnittstelle
+  Participant: Julian Kolesik
+  Working: Verhalten von Fake-Playern ändern
+  StartDate: 2021-02-16T19:11:28.0000000+01:00
+  EndDate: 2021-02-16T22:46:51.0000000+01:00
+  EstimatedTime: 12923000
+  BreakTime: 0
+  PercentProgress: 64
+- UserStory: Unity UI
+  Participant: Kalian Danzer
+  Working: Implement Menu Backend Functions
+  StartDate: 2021-02-25T21:29:34.0000000+01:00
+  EndDate: 2021-02-26T00:47:31.0000000+01:00
   EstimatedTime: 10800000
   BreakTime: 0
   PercentProgress: 65
