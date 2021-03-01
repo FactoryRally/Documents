@@ -1035,3 +1035,11 @@ TableRowsShort:
   EstimatedTime: 10800000
   BreakTime: 0
   PercentProgress: 70
+- UserStory: Spiele Logik / API
+  Participant: Nils Brugger
+  Working: Kartenimplementierung
+  StartDate: 2021-03-01T10:02:17.3648017+01:00
+  EndDate: 2021-03-01T13:53:42.6591701+01:00
+  EstimatedTime: 3600000
+  BreakTime: 41064916
+  PercentProgress: 0
