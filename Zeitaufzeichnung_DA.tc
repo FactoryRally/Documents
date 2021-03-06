@@ -1059,3 +1059,11 @@ TableRowsShort:
   EstimatedTime: 7200000
   BreakTime: 0
   PercentProgress: 72
+- UserStory: Unity Game
+  Participant: Kalian Danzer
+  Working: Implement the JoinGame function
+  StartDate: 2021-03-04T15:15:23.3610463+01:00
+  EndDate: 2021-03-04T22:42:30.9760382+01:00
+  EstimatedTime: 10800000
+  BreakTime: 12230467
+  PercentProgress: 24
