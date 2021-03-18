@@ -1067,3 +1067,11 @@ TableRowsShort:
   EstimatedTime: 10800000
   BreakTime: 12230467
   PercentProgress: 24
+- UserStory: Social Media Content
+  Participant: Tobias Schrottwieser
+  Working: Implementierung vorbereiten und arbeiten
+  StartDate: 2021-03-18T12:51:40.4280685+01:00
+  EndDate: 2021-03-18T20:29:13.3730752+01:00
+  EstimatedTime: 28800000
+  BreakTime: 3705
+  PercentProgress: 33
