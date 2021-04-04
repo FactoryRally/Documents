@@ -45,6 +45,12 @@ UserStorys:
   ColorInt: -4144960
 - Name: Netzwerkscanner
   ColorInt: -200
+- Name: Implementierung verfassen
+  ColorInt: -10329502
+- Name: Diplomarbeit überarbeiten
+  ColorInt: -11449786
+- Name: Retrospektive/Conclusio verfassen
+  ColorInt: -7568773
 Participants:
 - Kalian Danzer
 - Julian Kolesik
@@ -859,6 +865,14 @@ TableRowsShort:
   EstimatedTime: 7200000
   BreakTime: 4307354
   PercentProgress: 90
+- UserStory: Konzept verfassen
+  Participant: Kalian Danzer
+  Working: Konzept überarbeiten
+  StartDate: 2021-02-22T15:23:00.0000000+01:00
+  EndDate: 2021-02-22T16:12:00.0000000+01:00
+  EstimatedTime: 3600000
+  BreakTime: 0
+  PercentProgress: 100
 - UserStory: Unity Game
   Participant: Kalian Danzer
   Working: Netzwerk Scan fürs finden von Lokalen Lobbys implementieren
@@ -931,7 +945,7 @@ TableRowsShort:
   EstimatedTime: 13129000
   BreakTime: 0
   PercentProgress: 90
-- UserStory: Datenakquirierung von REST-Schnittstelle
+- UserStory: Datenakquirierung von REST-Schnittstelle implementieren
   Participant: Julian Kolesik
   Working: Abstrahierung und Resource-Handler
   StartDate: 2021-02-08T13:43:55.0000000+01:00
@@ -939,7 +953,7 @@ TableRowsShort:
   EstimatedTime: 17480000
   BreakTime: 0
   PercentProgress: 33
-- UserStory: Datenakquirierung von REST-Schnittstelle
+- UserStory: Datenakquirierung von REST-Schnittstelle implementieren
   Participant: Julian Kolesik
   Working: ConnectionHandler und ID-Mapping
   StartDate: 2021-02-09T12:48:15.0000000+01:00
@@ -947,7 +961,7 @@ TableRowsShort:
   EstimatedTime: 23319000
   BreakTime: 1239000
   PercentProgress: 58
-- UserStory: MQTT-Implementierung
+- UserStory: MQTT Implementierung
   Participant: Julian Kolesik
   Working: Verbindung zwischen MQTT und REST-Client hergestellt und Nachrichten richtig getimt
   StartDate: 2021-02-12T14:10:39.0000000+01:00
@@ -995,7 +1009,7 @@ TableRowsShort:
   EstimatedTime: 8922000
   BreakTime: 0
   PercentProgress: 75
-- UserStory: Datenakquirierung von REST-Schnittstelle
+- UserStory: Datenakquirierung von REST-Schnittstelle implementieren
   Participant: Julian Kolesik
   Working: Verhalten von Fake-Playern ändern
   StartDate: 2021-02-16T19:11:28.0000000+01:00
@@ -1075,3 +1089,59 @@ TableRowsShort:
   EstimatedTime: 28800000
   BreakTime: 3705
   PercentProgress: 33
+- UserStory: Unity Game
+  Participant: Kalian Danzer
+  Working: Finding and fixing bugs mostly
+  StartDate: 2021-03-06T14:10:00.0000000+01:00
+  EndDate: 2021-03-06T21:00:00.0000000+01:00
+  EstimatedTime: 10800000
+  BreakTime: 6417230
+  PercentProgress: 30
+- UserStory: Diplomarbeit überarbeiten
+  Participant: Kalian Danzer
+  Working: Durchlesen und verbessern der Diplomarbeit (SoTA, Konzept)
+  StartDate: 2021-02-25T13:30:00.0000000+01:00
+  EndDate: 2021-02-25T16:00:00.0000000+01:00
+  EstimatedTime: 10800000
+  BreakTime: 0
+  PercentProgress: 50
+- UserStory: Implementierung verfassen
+  Participant: Kalian Danzer
+  Working: Verfassen der Implementierung
+  StartDate: 2021-03-07T15:20:00.0000000+01:00
+  EndDate: 2021-03-07T20:10:00.0000000+01:00
+  EstimatedTime: 14400000
+  BreakTime: 0
+  PercentProgress: 75
+- UserStory: Diplomarbeit überarbeiten
+  Participant: Kalian Danzer
+  Working: Durchlesen und verbessern der Diplomarbeit (Implementierung)
+  StartDate: 2021-03-08T12:45:00.0000000+01:00
+  EndDate: 2021-03-08T15:25:00.0000000+01:00
+  EstimatedTime: 10800000
+  BreakTime: 0
+  PercentProgress: 90
+- UserStory: Implementierung verfassen
+  Participant: Kalian Danzer
+  Working: Fertiges verfassen der Implementierung
+  StartDate: 2021-03-08T18:35:00.0000000+01:00
+  EndDate: 2021-03-08T22:40:00.0000000+01:00
+  EstimatedTime: 14400000
+  BreakTime: 932454
+  PercentProgress: 100
+- UserStory: Retrospektive/Conclusio verfassen
+  Participant: Kalian Danzer
+  Working: Verfassen der Retrospektive
+  StartDate: 2021-04-01T15:07:00.0000000+02:00
+  EndDate: 2021-04-01T16:30:00.0000000+02:00
+  EstimatedTime: 3600000
+  BreakTime: 900000
+  PercentProgress: 100
+- UserStory: Retrospektive/Conclusio verfassen
+  Participant: Kalian Danzer
+  Working: Verfassen der Conclusio
+  StartDate: 2021-04-04T14:00:00.0000000+02:00
+  EndDate: 2021-04-04T15:10:00.0000000+02:00
+  EstimatedTime: 1806372
+  BreakTime: 0
+  PercentProgress: 100
