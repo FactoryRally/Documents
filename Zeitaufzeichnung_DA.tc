@@ -851,9 +851,8 @@ TableRowsShort:
   PercentProgress: 30
 - UserStory: Unity UI
   Participant: Kalian Danzer
-  Working: UI Submenü "Hosts" hinzufügen
-  StartDate: 2021-02-17T17:25:59.9746426+01:00
-  EndDate: 2021-02-17T18:36:58.9617689+01:00
+  Working: UI Submenü "Hosts" hinzufügen und umsetzen
+  StartDate: 2021-02-17T16:33:59.9746426+01:00
   EstimatedTime: 3600000
   BreakTime: 0
   PercentProgress: 37
@@ -1096,7 +1095,16 @@ TableRowsShort:
   EndDate: 2021-03-06T21:00:00.0000000+01:00
   EstimatedTime: 10800000
   BreakTime: 6417230
-  PercentProgress: 30
+  BreakTime: 5417230
+  PercentProgress: 35
+- UserStory: Unity Game
+  Participant: Kalian Danzer
+  Working: Backend für Host entwickeln
+  StartDate: 2021-03-03T14:10:00.0000000+01:00
+  EndDate: 2021-03-03T17:00:00.0000000+01:00
+  EstimatedTime: 10800000
+  BreakTime: 32423
+  PercentProgress: 35
 - UserStory: Diplomarbeit überarbeiten
   Participant: Kalian Danzer
   Working: Durchlesen und verbessern der Diplomarbeit (SoTA, Konzept)
