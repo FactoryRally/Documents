@@ -1164,16 +1164,24 @@ TableRowsShort:
 - UserStory: Unity Game
   Participant: Kalian Danzer
   Working: Testing der Methoden
-  StartDate: 2021-04-17T14:25:00+02:00
-  EndDate: 2021-04-17T19:15:00+02:00
+  StartDate: 2021-04-17T14:25:00.0000000+02:00
+  EndDate: 2021-04-17T19:15:00.0000000+02:00
   EstimatedTime: 10800000
   BreakTime: 0
   PercentProgress: 37
 - UserStory: Unity Game
   Participant: Kalian Danzer
   Working: Implementierung der Lobby
-  StartDate: 2021-04-19T14:23:11.4055672+02:00
-  EndDate: 2021-04-20T00:25:32.9250203+02:00
+  StartDate: 2021-04-18T14:23:11.4055672+02:00
+  EndDate: 2021-04-19T00:25:32.9250203+02:00
   EstimatedTime: 10800000
   BreakTime: 13782741
+  PercentProgress: 40
+- UserStory: Unity Game
+  Participant: Kalian Danzer
+  Working: MapBuilder für das Game und das Kamera Movement hinzugefügt!
+  StartDate: 2021-04-19T11:47:13.5582683+02:00
+  EndDate: 2021-04-19T20:22:46.8337218+02:00
+  EstimatedTime: 18000000
+  BreakTime: 14553282
   PercentProgress: 40
