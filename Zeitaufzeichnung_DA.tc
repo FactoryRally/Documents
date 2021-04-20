@@ -1185,3 +1185,11 @@ TableRowsShort:
   EstimatedTime: 18000000
   BreakTime: 14553282
   PercentProgress: 40
+- UserStory: Unity Game
+  Participant: Kalian Danzer
+  Working: Game Starten, Maps Abfragen und Spielen
+  StartDate: 2021-04-20T10:04:17.4072975+02:00
+  EndDate: 2021-04-20T15:46:24.3287923+02:00
+  EstimatedTime: 14400000
+  BreakTime: 0
+  PercentProgress: 45
