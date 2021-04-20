@@ -1199,7 +1199,7 @@ TableRowsShort:
   Participant: Kalian Danzer
   Working: Game Map Building and More
   StartDate: 2021-04-20T19:03:10.4902461+02:00
-  EndDate: 2021-04-20T22:55:40.7461013+02:00
+  EndDate: 2021-04-21T00:04:40.7461013+02:00
   EstimatedTime: 7200000
   BreakTime: 0
   PercentProgress: 50
@@ -1214,8 +1214,8 @@ TableRowsShort:
 - UserStory: Spiele Logik / API
   Participant: Nils Brugger
   Working: Bugs Fixen und Modding vorbereiten
-  StartDate: 2021-04-11T10:54:17.4072975+02:00
-  EndDate: 2021-04-11T22:59:13.1074613+02:00
+  StartDate: 2021-04-11T10:54:17.7240975+02:00
+  EndDate: 2021-04-11T22:59:17.0746113+02:00
   EstimatedTime: 7200000
   BreakTime: 4700000
   PercentProgress: 0
