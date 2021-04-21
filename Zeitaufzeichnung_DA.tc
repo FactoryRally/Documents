@@ -1571,3 +1571,195 @@ TableRowsShort:
   EstimatedTime: 13500000
   BreakTime: 0
   PercentProgress: 63
+- UserStory: Konzept verfassen
+  Participant: Tobias Schrottwieser
+  Working: Vervollständigen und Korrektur
+  StartDate: 2021-03-11T19:52:00+02:00
+  EndDate: 2021-03-11T22:23:00+02:00
+  EstimatedTime: 7200000
+  BreakTime: 1200
+  PercentProgress: 100
+- UserStory: Social Media Content
+  Participant: Tobias Schrottwieser
+  Working: Bildersamlung von den einzelnen Teammitgliedern
+  StartDate: 2021-04-01T10:52:54.8302191+02:00
+  EndDate: 2021-04-01T16:34:58.8165948+02:00
+  EstimatedTime: 18000000
+  BreakTime: 12472
+  PercentProgress: 40
+- UserStory: Social Media Content
+  Participant: Tobias Schrottwieser
+  Working: Erstellte Bilder Auswählen und bearbeiten
+  StartDate: 2021-04-02T16:52:30.5709217+02:00
+  EndDate: 2021-04-02T19:35:34.9869816+02:00
+  EstimatedTime: 14400000
+  BreakTime: 31754
+  PercentProgress: 65
+- UserStory: Social Media Content
+  Participant: Tobias Schrottwieser
+  Working: Die vervollständigten Bilder richtig Formatieren.
+  StartDate: 2021-04-10T16:32:08.7925104+02:00
+  EndDate: 2021-04-10T21:56:12.0899026+02:00
+  EstimatedTime: 10800000
+  BreakTime: 33805
+  PercentProgress: 85
+- UserStory: Social Media Content
+  Participant: Tobias Schrottwieser
+  Working: Die Inhalte hochladen und bewerben
+  StartDate: 2021-04-20T18:26:45.3514634+02:00
+  EndDate: 2021-04-20T22:24:50.7879330+02:00
+  EstimatedTime: 14400000
+  BreakTime: 332062
+  PercentProgress: 100
+- UserStory: SotA verfassen
+  Participant: Tobias Schrottwieser
+  Working: Fertigstellung mit Implementierung von Feedback
+  StartDate: 2021-01-21T16:59:12.2661766+02:00
+  EndDate: 2021-01-21T19:52:14.8355443+02:00
+  EstimatedTime: 10800000
+  BreakTime: 141478
+  PercentProgress: 100
+- UserStory: Diplomarbeit überarbeiten
+  Participant: Tobias Schrottwieser
+  Working: Diplomarbeit überarbeiten - Rechtschreibung
+  StartDate: 2021-03-14T17:30:00.0000000+01:00
+  EndDate: 2021-03-14T22:45:00.0000000+01:00
+  EstimatedTime: 18900000
+  BreakTime: 18000000
+  PercentProgress: 15
+- UserStory: Diplomarbeit überarbeiten
+  Participant: Tobias Schrottwieser
+  Working: Diplomarbeit überarbeiten - Rechtschreibung v2 und Grammatik
+  StartDate: 2021-03-19T12:45:00.0000000+01:00
+  EndDate: 2021-03-19T18:30:00.0000000+01:00
+  EstimatedTime: 20700000
+  BreakTime: 1800000
+  PercentProgress: 23
+- UserStory: Diplomarbeit überarbeiten
+  Participant: Tobias Schrottwieser
+  Working: Diplomarbeit überarbeiten - Rechtschreibung v3 und Grammatik
+  StartDate: 2021-03-22T12:45:00.0000000+01:00
+  EndDate: 2021-03-22T14:45:00.0000000+01:00
+  EstimatedTime: 7200000
+  BreakTime: 0
+  PercentProgress: 29
+- UserStory: Diplomarbeit überarbeiten
+  Participant: Tobias Schrottwieser
+  Working: Diplomarbeit überarbeiten
+  StartDate: 2021-03-25T15:30:00.0000000+01:00
+  EndDate: 2021-03-25T19:15:00.0000000+01:00
+  EstimatedTime: 13500000
+  BreakTime: 0
+  PercentProgress: 36
+- UserStory: Diplomarbeit überarbeiten
+  Participant: Tobias Schrottwieser
+  Working: Diplomarbeit überarbeiten
+  StartDate: 2021-03-29T17:00:00.0000000+02:00
+  EndDate: 2021-03-29T23:00:00.0000000+02:00
+  EstimatedTime: 21600000
+  BreakTime: 1800000
+  PercentProgress: 48
+- UserStory: Diplomarbeit überarbeiten
+  Participant: Tobias Schrottwieser
+  Working: Diplomarbeit überarbeiten
+  StartDate: 2021-04-02T14:45:00.0000000+02:00
+  EndDate: 2021-04-02T18:15:00.0000000+02:00
+  EstimatedTime: 12600000
+  BreakTime: 0
+  PercentProgress: 55
+- UserStory: Diplomarbeit überarbeiten
+  Participant: Tobias Schrottwieser
+  Working: Diplomarbeit überarbeiten/Review v1
+  StartDate: 2021-04-10T11:15:00.0000000+02:00
+  EndDate: 2021-04-10T18:30:00.0000000+02:00
+  EstimatedTime: 26100000
+  BreakTime: 1800000
+  PercentProgress: 72
+- UserStory: Diplomarbeit überarbeiten
+  Participant: Tobias Schrottwieser
+  Working: Review v2
+  StartDate: 2021-04-18T10:30:00.0000000+02:00
+  EndDate: 2021-04-18T19:00:00.0000000+02:00
+  EstimatedTime: 30600000
+  BreakTime: 2700000
+  PercentProgress: 90
+- UserStory: Diplomarbeit überarbeiten
+  Participant: Tobias Schrottwieser
+  Working: Feedback einarbeiten
+  StartDate: 2021-04-19T14:30:00.0000000+02:00
+  EndDate: 2021-04-19T19:15:00.0000000+02:00
+  EstimatedTime: 17100000
+  BreakTime: 1800000
+  PercentProgress: 97
+- UserStory: Diplomarbeit überarbeiten
+  Participant: Tobias Schrottwieser
+  Working: Final check
+  StartDate: 2021-04-20T10:30:00.0000000+02:00
+  EndDate: 2021-04-20T15:15:00.0000000+02:00
+  EstimatedTime: 17100000
+  BreakTime: 1800000
+  PercentProgress: 100
+- UserStory: Implementierung verfassen
+  Participant: Tobias Schrottwieser
+  Working: Verfassen
+  StartDate: 2021-03-07T13:14:24.5917539+02:00
+  EndDate: 2021-03-07T21:26:31.9344433+02:00
+  EstimatedTime: 28800000
+  BreakTime: 0
+  PercentProgress: 75
+- UserStory: Implementierung verfassen
+  Participant: Tobias Schrottwieser
+  Working: Fertigstellen und Korrigieren
+  StartDate: 2021-03-22T16:13:55.8443074+02:00
+  EndDate: 2021-03-22T21:27:57.6282072+02:00
+  EstimatedTime: 21600000
+  BreakTime: 23910
+  PercentProgress: 100
+- UserStory: Team Unterstützung
+  Participant: Tobias Schrottwieser
+  Working: 2 Meinung bei der UI
+  StartDate: 2021-03-02T19:20:32.7361982+02:00
+  EndDate: 2021-03-02T22:52:34.6664516+02:00
+  EstimatedTime: 14400000
+  BreakTime: 95107
+  PercentProgress: 100
+- UserStory: Website
+  Participant: Tobias Schrottwieser
+  Working: Update samt Verbesserungen
+  StartDate: 2021-03-21T17:23:31.2766669+02:00
+  EndDate: 2021-03-21T22:56:32.6177683+02:00
+  EstimatedTime: 14400000
+  BreakTime: 56610
+  PercentProgress: 75
+- UserStory: Website
+  Participant: Tobias Schrottwieser
+  Working: Finalisierung mit Updates und Fehlerbehebungen
+  StartDate: 2021-04-15T16:17:48.8388808+02:00
+  EndDate: 2021-04-15T23:43:50.4484325+02:00
+  EstimatedTime: 18000000
+  BreakTime: 16222
+  PercentProgress: 100
+- UserStory: Retrospektive/Conclusio verfassen
+  Participant: Tobias Schrottwieser
+  Working: Verfassen und Retroperspektive
+  StartDate: 2021-03-21T18:18:26.7097914+02:00
+  EndDate: 2021-03-21T20:18:28.1698515+02:00
+  EstimatedTime: 7200000
+  BreakTime: 96262
+  PercentProgress: 50
+- UserStory: Retrospektive/Conclusio verfassen
+  Participant: Tobias Schrottwieser
+  Working: Vervollständigung des Kapitels samt Verbesserungen
+  StartDate: 2021-03-30T16:07:50.0659067+02:00
+  EndDate: 2021-03-30T18:22:51.3951658+02:00
+  EstimatedTime: 10800000
+  BreakTime: 21897
+  PercentProgress: 100
+- UserStory: Plagiatscheck samt Verbesserung
+  Participant: Tobias Schrottwieser
+  Working: Vervollständigung der DA samt Verbesserung
+  StartDate: 2021-04-19T19:21:04.4232921+02:00
+  EndDate: 2021-04-19T23:48:05.9695196+02:00
+  EstimatedTime: 14400000
+  BreakTime: 133028
+  PercentProgress: 100
