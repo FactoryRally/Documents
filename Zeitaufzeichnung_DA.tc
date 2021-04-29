@@ -1205,7 +1205,7 @@ TableRowsShort:
   PercentProgress: 50
 - UserStory: Spiele Logik / API
   Participant: Nils Brugger
-  Working: "Zusammenarbeit mit Kalian - Bug Fixing"
+  Working: Zusammenarbeit mit Kalian - Bug Fixing
   StartDate: 2021-04-20T10:54:17.4072975+02:00
   EndDate: 2021-04-20T22:59:13.1074613+02:00
   EstimatedTime: 7200000
@@ -1222,8 +1222,8 @@ TableRowsShort:
 - UserStory: Spiele Logik / API
   Participant: Nils Brugger
   Working: Dokumentation schreiben
-  StartDate: 2021-04-03T11:05:00+02:00
-  EndDate: 2021-04-03T23:30:00+02:00
+  StartDate: 2021-04-03T11:05:00.0000000+02:00
+  EndDate: 2021-04-03T23:30:00.0000000+02:00
   EstimatedTime: 7200000
   BreakTime: 5200000
   PercentProgress: 0
@@ -1238,16 +1238,16 @@ TableRowsShort:
 - UserStory: Spiele Logik / API
   Participant: Nils Brugger
   Working: Modding System
-  StartDate: 2021-04-17T12:00:00+02:00
-  EndDate: 2021-04-18T00:10:00+02:00
+  StartDate: 2021-04-17T12:00:00.0000000+02:00
+  EndDate: 2021-04-18T00:10:00.0000000+02:00
   EstimatedTime: 7200000
   BreakTime: 4311647
   PercentProgress: 0
 - UserStory: Spiele Logik / API
   Participant: Nils Brugger
   Working: Modding System
-  StartDate: 2021-04-18T10:00:00+02:00
-  EndDate: 2021-04-18T23:30:00+02:00
+  StartDate: 2021-04-18T10:00:00.0000000+02:00
+  EndDate: 2021-04-18T23:30:00.0000000+02:00
   EstimatedTime: 7200000
   BreakTime: 4527431
   PercentProgress: 0
@@ -1278,200 +1278,200 @@ TableRowsShort:
 - UserStory: Implementierung verfassen
   Participant: Julian Kolesik
   Working: Implementierung - Einleitung
-  StartDate: 2021-03-14T11:15:00.0000000+02:00
-  EndDate: 2021-03-14T14:35:00.0000000+02:00
+  StartDate: 2021-03-14T10:15:00.0000000+01:00
+  EndDate: 2021-03-14T13:35:00.0000000+01:00
   EstimatedTime: 12024000
   BreakTime: 0
   PercentProgress: 18
 - UserStory: Implementierung verfassen
   Participant: Julian Kolesik
   Working: Implementierung - ReST
-  StartDate: 2021-03-15T17:30:00.0000000+02:00
-  EndDate: 2021-03-15T22:40:00.0000000+02:00
+  StartDate: 2021-03-15T16:30:00.0000000+01:00
+  EndDate: 2021-03-15T21:40:00.0000000+01:00
   EstimatedTime: 18612000
   BreakTime: 0
   PercentProgress: 40
 - UserStory: Implementierung verfassen
   Participant: Julian Kolesik
   Working: Implementierung - UI auf dem Raspberry Pi
-  StartDate: 2021-03-16T18:45:00.0000000+02:00
-  EndDate: 2021-03-16T22:15:00.0000000+02:00
+  StartDate: 2021-03-16T17:45:00.0000000+01:00
+  EndDate: 2021-03-16T21:15:00.0000000+01:00
   EstimatedTime: 12600000
   BreakTime: 0
   PercentProgress: 62
 - UserStory: Implementierung verfassen
   Participant: Julian Kolesik
   Working: Implementierung - MQTT
-  StartDate: 2021-03-18T14:30:00.0000000+02:00
-  EndDate: 2021-03-18T16:00:00.0000000+02:00
+  StartDate: 2021-03-18T13:30:00.0000000+01:00
+  EndDate: 2021-03-18T15:00:00.0000000+01:00
   EstimatedTime: 5400000
   BreakTime: 0
   PercentProgress: 68
 - UserStory: Implementierung verfassen
   Participant: Julian Kolesik
   Working: Implementierung - MQTT
-  StartDate: 2021-03-18T19:30:00.0000000+02:00
-  EndDate: 2021-03-18T23:10:00.0000000+02:00
+  StartDate: 2021-03-18T18:30:00.0000000+01:00
+  EndDate: 2021-03-18T22:10:00.0000000+01:00
   EstimatedTime: 13212000
   BreakTime: 0
   PercentProgress: 86
 - UserStory: Implementierung verfassen
   Participant: Julian Kolesik
   Working: Implementierung - Conclusio
-  StartDate: 2021-03-19T14:50:00.0000000+02:00
-  EndDate: 2021-03-19T18:10:00.0000000+02:00
+  StartDate: 2021-03-19T13:50:00.0000000+01:00
+  EndDate: 2021-03-19T17:10:00.0000000+01:00
   EstimatedTime: 12024000
   BreakTime: 0
   PercentProgress: 98
 - UserStory: Implementierung verfassen
   Participant: Julian Kolesik
   Working: Implementierung - überarbeiten
-  StartDate: 2021-03-22T19:15:00.0000000+02:00
-  EndDate: 2021-03-22T23:50:00.0000000+02:00
+  StartDate: 2021-03-22T18:15:00.0000000+01:00
+  EndDate: 2021-03-22T22:50:00.0000000+01:00
   EstimatedTime: 16524000
   BreakTime: 0
   PercentProgress: 100
 - UserStory: Konzept verfassen
   Participant: Julian Kolesik
   Working: Konzept - Einleitung/ReST
-  StartDate: 2021-02-28T16:30:00.0000000+02:00
-  EndDate: 2021-02-28T21:30:00.0000000+02:00
+  StartDate: 2021-02-28T15:30:00.0000000+01:00
+  EndDate: 2021-02-28T20:30:00.0000000+01:00
   EstimatedTime: 18000000
   BreakTime: 0
   PercentProgress: 38
 - UserStory: Konzept verfassen
   Participant: Julian Kolesik
   Working: Konzept - MQTT
-  StartDate: 2021-03-01T15:00:00.0000000+02:00
-  EndDate: 2021-03-01T18:45:00.0000000+02:00
+  StartDate: 2021-03-01T14:00:00.0000000+01:00
+  EndDate: 2021-03-01T17:45:00.0000000+01:00
   EstimatedTime: 13500000
   BreakTime: 0
   PercentProgress: 56
 - UserStory: Konzept verfassen
   Participant: Julian Kolesik
   Working: Konzept - NetzwerkUtilities
-  StartDate: 2021-03-02T13:00:00.0000000+02:00
-  EndDate: 2021-03-02T16:30:00.0000000+02:00
+  StartDate: 2021-03-02T12:00:00.0000000+01:00
+  EndDate: 2021-03-02T15:30:00.0000000+01:00
   EstimatedTime: 12600000
   BreakTime: 0
   PercentProgress: 78
 - UserStory: Konzept verfassen
   Participant: Julian Kolesik
   Working: Konzept - Conclusio
-  StartDate: 2021-03-04T19:15:00.0000000+02:00
-  EndDate: 2021-03-04T21:30:00.0000000+02:00
+  StartDate: 2021-03-04T18:15:00.0000000+01:00
+  EndDate: 2021-03-04T20:30:00.0000000+01:00
   EstimatedTime: 8100000
   BreakTime: 0
   PercentProgress: 94
 - UserStory: Konzept verfassen
   Participant: Julian Kolesik
   Working: Konzept überarbeiten
-  StartDate: 2021-03-11T20:15:00.0000000+02:00
-  EndDate: 2021-03-11T22:45:00.0000000+02:00
+  StartDate: 2021-03-11T19:15:00.0000000+01:00
+  EndDate: 2021-03-11T21:45:00.0000000+01:00
   EstimatedTime: 8100000
   BreakTime: 0
   PercentProgress: 100
 - UserStory: RaspberryPi-UI
   Participant: Julian Kolesik
   Working: Konzept überarbeiten
-  StartDate: 2021-03-11T20:15:00.0000000+02:00
-  EndDate: 2021-03-11T22:45:00.0000000+02:00
+  StartDate: 2021-03-11T19:15:00.0000000+01:00
+  EndDate: 2021-03-11T21:45:00.0000000+01:00
   EstimatedTime: 8100000
   BreakTime: 0
   PercentProgress: 100
 - UserStory: Netzwerkscanner
   Participant: Julian Kolesik
   Working: Formatierung der Liste
-  StartDate: 2021-02-22T16:50:00.0000000+02:00
-  EndDate: 2021-02-22T21:30:00.0000000+02:00
+  StartDate: 2021-02-22T15:50:00.0000000+01:00
+  EndDate: 2021-02-22T20:30:00.0000000+01:00
   EstimatedTime: 16812000
   BreakTime: 0
   PercentProgress: 96
 - UserStory: RaspberryPi-UI
   Participant: Julian Kolesik
   Working: Basic-UI
-  StartDate: 2021-03-01T13:00:00.0000000+02:00
-  EndDate: 2021-03-01T14:30:00.0000000+02:00
+  StartDate: 2021-03-01T12:00:00.0000000+01:00
+  EndDate: 2021-03-01T13:30:00.0000000+01:00
   EstimatedTime: 5400000
   BreakTime: 0
   PercentProgress: 8
 - UserStory: RaspberryPi-UI
   Participant: Julian Kolesik
   Working: Informationdisplay
-  StartDate: 2021-03-03T19:15:00.0000000+02:00
-  EndDate: 2021-03-03T23:45:00.0000000+02:00
+  StartDate: 2021-03-03T18:15:00.0000000+01:00
+  EndDate: 2021-03-03T22:45:00.0000000+01:00
   EstimatedTime: 16200000
   BreakTime: 0
   PercentProgress: 20
 - UserStory: RaspberryPi-UI
   Participant: Julian Kolesik
   Working: WlanChooser/PW
-  StartDate: 2021-03-05T20:30:00.0000000+02:00
-  EndDate: 2021-03-05T23:15:00.0000000+02:00
+  StartDate: 2021-03-05T19:30:00.0000000+01:00
+  EndDate: 2021-03-05T22:15:00.0000000+01:00
   EstimatedTime: 9900000
   BreakTime: 0
   PercentProgress: 20
 - UserStory: RaspberryPi-UI
   Participant: Julian Kolesik
   Working: GameChooser
-  StartDate: 2021-03-07T16:30:00.0000000+02:00
-  EndDate: 2021-03-07T22:45:00.0000000+02:00
+  StartDate: 2021-03-07T15:30:00.0000000+01:00
+  EndDate: 2021-03-07T21:45:00.0000000+01:00
   EstimatedTime: 22500000
   BreakTime: 1800000
   PercentProgress: 42
 - UserStory: RaspberryPi-UI
   Participant: Julian Kolesik
   Working: Switching UI
-  StartDate: 2021-03-09T14:45:00.0000000+02:00
-  EndDate: 2021-03-09T19:45:00.0000000+02:00
+  StartDate: 2021-03-09T13:45:00.0000000+01:00
+  EndDate: 2021-03-09T18:45:00.0000000+01:00
   EstimatedTime: 18000000
   BreakTime: 900000
   PercentProgress: 78
 - UserStory: RaspberryPi-UI
   Participant: Julian Kolesik
   Working: UI integrated
-  StartDate: 2021-03-10T18:30:00.0000000+02:00
-  EndDate: 2021-03-10T22:15:00.0000000+02:00
+  StartDate: 2021-03-10T17:30:00.0000000+01:00
+  EndDate: 2021-03-10T21:15:00.0000000+01:00
   EstimatedTime: 13500000
   BreakTime: 0
   PercentProgress: 98
 - UserStory: Diplomarbeit überarbeiten
   Participant: Julian Kolesik
   Working: Diplomarbeit überarbeiten - Rechtschreibung
-  StartDate: 2021-03-14T18:30:00.0000000+02:00
-  EndDate: 2021-03-14T23:45:00.0000000+02:00
+  StartDate: 2021-03-14T17:30:00.0000000+01:00
+  EndDate: 2021-03-14T22:45:00.0000000+01:00
   EstimatedTime: 18900000
   BreakTime: 1800000
   PercentProgress: 15
 - UserStory: Diplomarbeit überarbeiten
   Participant: Julian Kolesik
   Working: Diplomarbeit überarbeiten - Rechtschreibung
-  StartDate: 2021-03-14T18:30:00.0000000+02:00
-  EndDate: 2021-03-14T23:45:00.0000000+02:00
+  StartDate: 2021-03-14T17:30:00.0000000+01:00
+  EndDate: 2021-03-14T22:45:00.0000000+01:00
   EstimatedTime: 18900000
   BreakTime: 1800000
   PercentProgress: 15
 - UserStory: Diplomarbeit überarbeiten
   Participant: Julian Kolesik
   Working: Diplomarbeit überarbeiten - Rechtschreibung v2 und Grammatik
-  StartDate: 2021-03-19T13:45:00.0000000+02:00
-  EndDate: 2021-03-19T19:30:00.0000000+02:00
+  StartDate: 2021-03-19T12:45:00.0000000+01:00
+  EndDate: 2021-03-19T18:30:00.0000000+01:00
   EstimatedTime: 20700000
   BreakTime: 1800000
   PercentProgress: 23
 - UserStory: Diplomarbeit überarbeiten
   Participant: Julian Kolesik
   Working: Diplomarbeit überarbeiten - Rechtschreibung v2 und Grammatik
-  StartDate: 2021-03-22T13:45:00.0000000+02:00
-  EndDate: 2021-03-22T15:45:00.0000000+02:00
+  StartDate: 2021-03-22T12:45:00.0000000+01:00
+  EndDate: 2021-03-22T14:45:00.0000000+01:00
   EstimatedTime: 7200000
   BreakTime: 0
   PercentProgress: 29
 - UserStory: Diplomarbeit überarbeiten
   Participant: Julian Kolesik
   Working: Diplomarbeit überarbeiten
-  StartDate: 2021-03-25T16:30:00.0000000+02:00
-  EndDate: 2021-03-25T20:15:00.0000000+02:00
+  StartDate: 2021-03-25T15:30:00.0000000+01:00
+  EndDate: 2021-03-25T19:15:00.0000000+01:00
   EstimatedTime: 13500000
   BreakTime: 0
   PercentProgress: 36
@@ -1526,56 +1526,56 @@ TableRowsShort:
 - UserStory: Datenakquirierung von REST-Schnittstelle implementieren
   Participant: Julian Kolesik
   Working: Resourcen mit PAT updaten
-  StartDate: 2021-02-19T15:15:00.0000000+02:00
-  EndDate: 2021-02-19T19:00:00.0000000+02:00
+  StartDate: 2021-02-19T14:15:00.0000000+01:00
+  EndDate: 2021-02-19T18:00:00.0000000+01:00
   EstimatedTime: 13500000
   BreakTime: 0
   PercentProgress: 72
 - UserStory: Datenakquirierung von REST-Schnittstelle implementieren
   Participant: Julian Kolesik
   Working: Eventtyp-Abfrage
-  StartDate: 2021-03-06T11:30:00.0000000+02:00
-  EndDate: 2021-03-06T16:45:00.0000000+02:00
+  StartDate: 2021-03-06T10:30:00.0000000+01:00
+  EndDate: 2021-03-06T15:45:00.0000000+01:00
   EstimatedTime: 18900000
   BreakTime: 0
   PercentProgress: 90
 - UserStory: MQTT Implementierung
   Participant: Julian Kolesik
   Working: Mapping fixed und RobotID now correct
-  StartDate: 2021-03-12T14:30:00.0000000+02:00
-  EndDate: 2021-03-12T17:45:00.0000000+02:00
+  StartDate: 2021-03-12T13:30:00.0000000+01:00
+  EndDate: 2021-03-12T16:45:00.0000000+01:00
   EstimatedTime: 11700000
   BreakTime: 0
   PercentProgress: 76
 - UserStory: MQTT Implementierung
   Participant: Julian Kolesik
   Working: adress issue fixed
-  StartDate: 2021-03-13T09:30:00.0000000+02:00
-  EndDate: 2021-03-13T16:00:00.0000000+02:00
+  StartDate: 2021-03-13T08:30:00.0000000+01:00
+  EndDate: 2021-03-13T15:00:00.0000000+01:00
   EstimatedTime: 23400000
   BreakTime: 1800000
   PercentProgress: 85
 - UserStory: MQTT Implementierung
   Participant: Julian Kolesik
   Working: adress issue fixed
-  StartDate: 2021-03-20T10:45:00.0000000+02:00
-  EndDate: 2021-03-20T15:30:00.0000000+02:00
+  StartDate: 2021-03-20T09:45:00.0000000+01:00
+  EndDate: 2021-03-20T14:30:00.0000000+01:00
   EstimatedTime: 17100000
   BreakTime: 900000
   PercentProgress: 94
 - UserStory: MQTT-Implementierung testen
   Participant: Julian Kolesik
   Working: testing fixes
-  StartDate: 2021-03-21T13:00:00.0000000+02:00
-  EndDate: 2021-03-21T16:45:00.0000000+02:00
+  StartDate: 2021-03-21T12:00:00.0000000+01:00
+  EndDate: 2021-03-21T15:45:00.0000000+01:00
   EstimatedTime: 13500000
   BreakTime: 0
   PercentProgress: 63
 - UserStory: Konzept verfassen
   Participant: Tobias Schrottwieser
   Working: Vervollständigen und Korrektur
-  StartDate: 2021-03-11T19:52:00+02:00
-  EndDate: 2021-03-11T22:23:00+02:00
+  StartDate: 2021-03-11T18:52:00.0000000+01:00
+  EndDate: 2021-03-11T21:23:00.0000000+01:00
   EstimatedTime: 7200000
   BreakTime: 1200
   PercentProgress: 100
@@ -1614,8 +1614,8 @@ TableRowsShort:
 - UserStory: SotA verfassen
   Participant: Tobias Schrottwieser
   Working: Fertigstellung mit Implementierung von Feedback
-  StartDate: 2021-01-21T16:59:12.2661766+02:00
-  EndDate: 2021-01-21T19:52:14.8355443+02:00
+  StartDate: 2021-01-21T15:59:12.2661766+01:00
+  EndDate: 2021-01-21T18:52:14.8355443+01:00
   EstimatedTime: 10800000
   BreakTime: 141478
   PercentProgress: 100
@@ -1702,32 +1702,32 @@ TableRowsShort:
 - UserStory: Implementierung verfassen
   Participant: Tobias Schrottwieser
   Working: Verfassen
-  StartDate: 2021-03-07T13:14:24.5917539+02:00
-  EndDate: 2021-03-07T21:26:31.9344433+02:00
+  StartDate: 2021-03-07T12:14:24.5917539+01:00
+  EndDate: 2021-03-07T20:26:31.9344433+01:00
   EstimatedTime: 28800000
   BreakTime: 0
   PercentProgress: 75
 - UserStory: Implementierung verfassen
   Participant: Tobias Schrottwieser
   Working: Fertigstellen und Korrigieren
-  StartDate: 2021-03-22T16:13:55.8443074+02:00
-  EndDate: 2021-03-22T21:27:57.6282072+02:00
+  StartDate: 2021-03-22T15:13:55.8443074+01:00
+  EndDate: 2021-03-22T20:27:57.6282072+01:00
   EstimatedTime: 21600000
   BreakTime: 23910
   PercentProgress: 100
 - UserStory: Team Unterstützung
   Participant: Tobias Schrottwieser
   Working: 2 Meinung bei der UI
-  StartDate: 2021-03-02T19:20:32.7361982+02:00
-  EndDate: 2021-03-02T22:52:34.6664516+02:00
+  StartDate: 2021-03-02T18:20:32.7361982+01:00
+  EndDate: 2021-03-02T21:52:34.6664516+01:00
   EstimatedTime: 14400000
   BreakTime: 95107
   PercentProgress: 100
 - UserStory: Website
   Participant: Tobias Schrottwieser
   Working: Update samt Verbesserungen
-  StartDate: 2021-03-21T17:23:31.2766669+02:00
-  EndDate: 2021-03-21T22:56:32.6177683+02:00
+  StartDate: 2021-03-21T16:23:31.2766669+01:00
+  EndDate: 2021-03-21T21:56:32.6177683+01:00
   EstimatedTime: 14400000
   BreakTime: 56610
   PercentProgress: 75
@@ -1742,8 +1742,8 @@ TableRowsShort:
 - UserStory: Retrospektive/Conclusio verfassen
   Participant: Tobias Schrottwieser
   Working: Verfassen und Retroperspektive
-  StartDate: 2021-03-21T18:18:26.7097914+02:00
-  EndDate: 2021-03-21T20:18:28.1698515+02:00
+  StartDate: 2021-03-21T17:18:26.7097914+01:00
+  EndDate: 2021-03-21T19:18:28.1698515+01:00
   EstimatedTime: 7200000
   BreakTime: 96262
   PercentProgress: 50
@@ -1763,3 +1763,51 @@ TableRowsShort:
   EstimatedTime: 14400000
   BreakTime: 133028
   PercentProgress: 100
+- UserStory: Unity UI
+  Participant: Kalian Danzer
+  Working: UI aktuallisiert, sodass sie mehr Responsiv ist
+  StartDate: 2021-04-23T14:21:18.0090927+02:00
+  EndDate: 2021-04-23T16:16:22.6598725+02:00
+  EstimatedTime: 7200000
+  BreakTime: 0
+  PercentProgress: 74
+- UserStory: Unity UI
+  Participant: Kalian Danzer
+  Working: Kleine Änderungen an der Main UI
+  StartDate: 2021-04-25T14:42:07.7448613+02:00
+  EndDate: 2021-04-25T16:22:21.1617196+02:00
+  EstimatedTime: 3600000
+  BreakTime: 2152903
+  PercentProgress: 75
+- UserStory: Unity UI
+  Participant: Kalian Danzer
+  Working: Änderungen, sodass die UI mehr responsiv ist
+  StartDate: 2021-04-26T16:24:38.8094277+02:00
+  EndDate: 2021-04-26T18:10:19.0901452+02:00
+  EstimatedTime: 7200000
+  BreakTime: 1266964
+  PercentProgress: 77
+- UserStory: Unity Game
+  Participant: Kalian Danzer
+  Working: Updates in der Lobby. Fehler behoben beim game fetchen.
+  StartDate: 2021-04-27T18:45:00.0000000+02:00
+  EndDate: 2021-04-28T01:00:00.0000000+02:00
+  EstimatedTime: 7200000
+  BreakTime: 6148148
+  PercentProgress: 77
+- UserStory: Spiele Logik / API
+  Participant: Kalian Danzer
+  Working: 'feat: Add Repeat Command fix: Exponential card execution'
+  StartDate: 2021-04-28T14:58:21.9541135+02:00
+  EndDate: 2021-04-28T16:42:28.5046796+02:00
+  EstimatedTime: 7200000
+  BreakTime: 674475
+  PercentProgress: 0
+- UserStory: Unity Game
+  Participant: Kalian Danzer
+  Working: Unity Eventsystem, Programmierkarten und Roboter Movement
+  StartDate: 2021-04-28T18:45:35.2952431+02:00
+  EndDate: 2021-04-29T02:58:22.6994796+02:00
+  EstimatedTime: 10800000
+  BreakTime: 5681361
+  PercentProgress: 80
